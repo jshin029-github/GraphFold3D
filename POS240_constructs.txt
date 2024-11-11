@@ -1,0 +1,2000 @@
+design_name:
+design_name:#DRUM #G-quad #Breaker unclassified sequences drum RNA URS0000D68CB0_12908
+design_name:#FUFI-1 #Breaker #unclassified sequences FuFi-1 RNA URS0000D663F8_12908
+design_name:#FUFI-1 #Breaker unclassified sequences FuFi-1 RNA URS0000D68657_12908
+design_name:#Rhodo-rpoB motif #Breaker #https://rnacentral.org/rna/URS0000D65E25/12908
+design_name:#skipping rope #Breaker #unclassified sequences skipping-rope RNA URS0000D66F45_12908
+design_name:1
+design_name:1
+design_name:1A60: Turnip yellow mosaic virus
+design_name:1DRZ: self-cleaving ribozyme of the hepatitis delta virus (HDV)
+design_name:1E95: Simian retrovirus type-1
+design_name:1HVU: Human immunodeficiency virus inhibitor pseudoknot
+design_name:1KAJ: Mouse Mammary Tumor Virus
+design_name:1KPD: Mouse Mammary Tumor Virus
+design_name:1KPZ: Pea enation mosaic virus RNA1
+design_name:1L2X: Beet western yellow virus
+design_name:1L3D: Beet western yellow virus
+design_name:1MFQ: 7S RNA of human SRP
+design_name:1NBS: Bacillus subtilis ribonuclease P
+design_name:1RNK: Mouse Mammary Tumor Virus
+design_name:1U6B: RNA self-splicing group I intron
+design_name:1U9S: Ribonuclease P of the A-type
+design_name:1Y0Q: Staphylococcus virus Twort Group I ribozyme
+design_name:1YG4, PKB281: Sugarcane yellow leaf virus
+design_name:1YKV: Diels-Alder ribozyme
+design_name:1YMO: Human telomerase
+design_name:2
+design_name:2A43: Potato leaf roll virus
+design_name:2AP0: Sugarcane yellow leaf virus
+design_name:2AP5: Sugarcane yellow leaf virus
+design_name:2G1W: Aquifex aeolicus tmRNA pseudoknot
+design_name:2GCS: GlmS ribozyme
+design_name:2GTT: Lyssavirus rabies
+design_name:2H0S: GlmS ribozyme
+design_name:2H0X: GlmS ribozyme
+design_name:2H0Z: Thermoanaerobacter tengcongensis glmS ribozyme
+design_name:2HO7: Thermoanaerobacter tengcongensis glmS ribozyme
+design_name:2IL9: Plautia stali Ribosomal Binding Domain of the IRES
+design_name:2IL9: Ribosome-binding domain from a Dicistroviridae intergenic region IRES
+design_name:2K95: Human telomerase
+design_name:2K96: Human telomerase
+design_name:2L1V: Bacillus subtilis preQ(1) riboswitch
+design_name:2LC8, PKB78: Murine leukaemia virus recoding signal
+design_name:2M58: 2'-5' AG1 lariat forming ribozyme in its inactive state
+design_name:2M8K: Kluyveromyces lactis telomerase RNA pseudoknot
+design_name:2MIY: Streptococcus pneumoniae preQ1-II riboswitch
+design_name:2N8V: Apis mellifera
+design_name:2QWY, PKB345: SAM-II riboswitch bound to S-adenosylmethionine
+design_name:2R8S: P4-P6 RNA RIBOZYME DOMAIN
+design_name:2RP0: PEMV-1
+design_name:2RP1, Partial match to PKB45: pea enation mosaic virus
+design_name:2TPK, PKB73: T2
+design_name:2XD0: ToxI noncoding RNA pseudoknot
+design_name:2XDB, PKB359: ToxN-ToxI complex from Pectobacterium atrosepticum
+design_name:2XXA: Deinococcus radiodurans SRP
+design_name:2Z75: Caldanaerobacter subterraneus glmS ribozyme
+design_name:3
+design_name:3' Shifted Jurassic Dream — A dinosaur sequence appears on page 103 of Jurassic Park, by Michael Crichton (Ballantyne Books, 1993)
+design_name:3D0U: Lysine Riboswitch RNA
+design_name:3DIL: Thermotoga maritima lysine riboswitch
+design_name:3EGZ: in vitro evolved tetracycline aptamer and artificial riboswitch
+design_name:3F2X: FMN riboswitch
+design_name:3FU2: Bacillus subtilis class-I preQ1 riboswitch
+design_name:3G9C: GLMS ribozyme
+design_name:3GX2: TteSAM-I riboswitch
+design_name:3GX3: T. tengcongensis SAM-I riboswitch variant U34C/A94G
+design_name:3GX5: T. tengcongensis SAM-I riboswitch variant U34C/A94G
+design_name:3GX6: T. tengcongensis SAM-I riboswitch variant U34C/A94G
+design_name:3GX7: T. tengcongensis SAM-I riboswitch variant U34C/A94G
+design_name:3HHN: Homo sapiens Class I ligase ribozyme
+design_name:3IVK: Class I ligase product
+design_name:3IWN: Bacterial c-di-GMP riboswitch
+design_name:3JAN: Oryctolagus cuniculus SRP 7S
+design_name:3JB9: Schizosaccharomyces pombe U5 snRNA
+design_name:3JB9: Schizosaccharomyces pombe U6 + U2 snRNA
+design_name:3JCS: Leishmania donovani 26S gamma ribosomal RNA
+design_name:3K1V: Bacillus subtilis riboswitch
+design_name:3KTW: Saccharolobus solfataricus SRP
+design_name:3MHX: c-di-GMP riboswitch from V. cholerae
+design_name:3NDB: Methanocaldococcus jannaschii SRP
+design_name:3P49: Fusobacterium nucleatum GLYCINE RIBOSWITCH
+design_name:3PDR: Bacillus subtilis M-box RNA
+design_name:3Q3Z: c-di-GMP-II riboswitch
+design_name:3Q50: preQ1 riboswitch
+design_name:3Q51: PreQ1 riboswitch
+design_name:3SUH: THF riboswitch
+design_name:3SUX: THF riboswitch
+design_name:3SUY: THF riboswitch
+design_name:3T4B: hepatitis C virus IRES
+design_name:3VRS: Thermotoga petrophila fluoride riboswitch
+design_name:437D: Beet western yellow virus
+design_name:4AOB: Caldanaerobacter subterraneus SAM-I riboswitch
+design_name:4ATO: Antitoxic non-coding pseudoknot
+design_name:4EN5: Thermotoga petrophila fluoride riboswitch
+design_name:4ENA: Thermotoga petrophila fluoride riboswitch
+design_name:4ENB: Thermotoga petrophila fluoride riboswitch
+design_name:4ENC: Thermotoga petrophila fluoride riboswitch
+design_name:4FRN: Marine metagenome cobalamin riboswitch regulatory element
+design_name:4GMA: marine metagenome Adenosylcobalamin riboswitch
+design_name:4GXY: Adenosylcobalamin riboswitch
+design_name:4JF2: Lacticaseibacillus rhamnosus class II preQ1 riboswitch
+design_name:4KQY: Bacillus subtilis yitJ S box/SAM-I riboswitch
+design_name:4L81: SAM-I/IV riboswitch
+design_name:4LVV: PreQ1-1 (type-1) riboswitch
+design_name:4LVW: THF Riboswitch
+design_name:4LVX: THF riboswitch
+design_name:4LVY: THF riboswitch
+design_name:4LVZ: THF Riboswitch
+design_name:4LW0: Tetrahydrofolate Riboswitch
+design_name:4OJI: Twister ribozyme
+design_name:4OQU: SAM-I-IV-variant
+design_name:4OQU: SAM-I/IV riboswitch
+design_name:4P5J: Turnip Yellow Mosaic Virus
+design_name:4P5J: turnip yellow mosaic virus
+design_name:4P8Z: Didymium iridis partial IGS
+design_name:4PQV: Murray Valley Encephalitis virus Xrn1-resistant 3' UTR
+design_name:4QJD: twister ribozyme
+design_name:4QK8, PKB379: Thermoanaerobacter pseudethanolicus c-di-AMP riboswitch
+design_name:4QK9: Thermovirga lienii c-di-AMP riboswitch
+design_name:4QKA, PKB379: ydaO riboswitch
+design_name:4QLM: Caldanaerobacter subterraneus cyclic di-AMP riboswitch
+design_name:4QLM: ydao riboswitch
+design_name:4QLN: ydaO riboswitch
+design_name:4R4V: Neurospora VS ribozyme
+design_name:4RGE: Env22 twister ribozyme
+design_name:4RGF: env22 twister ribozyme
+design_name:4RMO: Eubacterium rectale CptIN Type III Toxin-Antitoxin System
+design_name:4RUM: NiCo riboswitch
+design_name:4RZD: Faecalibacterium prausnitzii PreQ1-III riboswitch
+design_name:4V92: Cricket paralysis virus CrPV IRES
+design_name:4W90: Bacillus subtilis cyclic-di-AMP riboswitch ydaO
+design_name:4WFL: Bacillus subtilis LSRP
+design_name:4WFL: Bacillus subtilis signal recognition particle
+design_name:4WFM: Bacillus subtilis signal recognition particle
+design_name:4ZNP: pfI Riboswitch
+design_name:5BTP: Fusobacterium ulcerans ZTP riboswitch
+design_name:5D5L: Lacticaseibacillus rhamnosus LOCK908 PreQ1-II riboswitch
+design_name:5F9R: Streptococcus pyogenes MGAS8232
+design_name:5GAN: Saccharomyces cerevisiae U5 snRNA
+design_name:5JUP: Taura syndrome virus IRES
+design_name:5K7C: Pistol ribozyme
+design_name:5K7D: Pistol ribozyme
+design_name:5K7E: Pistol ribozyme env25
+design_name:5KH8: Bacillus cereus fluoride riboswitch
+design_name:5KH8: Bacillus cereus fluoride riboswitch aptamer
+design_name:5KMZ, Partial match to PKB108 : Tetrahymena telomerase RNA pseudoknot
+design_name:5NWQ: Thermobifida fusca guanidine III riboswitch
+design_name:5NWQ: Thermobifida fusca ykkC guanidine III riboswitch
+design_name:5NY8: Thermobifida fusca guanidine III riboswitch
+design_name:5NZ3: Thermobifida fusca ykkC guanidine III riboswitch
+design_name:5NZ6: Thermobifida fusca ykkC guanidine III riboswitch
+design_name:5NZD: Thermobifida fusca ykkC guanidine III riboswitch
+design_name:5O62: Thermobifida fusca ykkC guanidine III riboswitch
+design_name:5O69: Thermobifida fusca guanidine III riboswitch
+design_name:5S e. coli #g-quad #i-motif
+design_name:5T5H: Trypanosoma cruzi srRNA1
+design_name:5T5H: Trypanosoma cruzi srRNA2
+design_name:5T5H: Trypanosoma cruzi srRNA4
+design_name:5T83: Sulfobacillus acidophilus Guanidine-I riboswitch
+design_name:5TPY: Zika virus
+design_name:5U30: Alicyclobacillus acidoterrestris sgRNA
+design_name:5VT0: Escherichia coli 6S RNA derivative
+design_name:5WTI: RNA transcription vector pBRDI1
+design_name:5X2G: Campylobacter jejuni sgRNA
+design_name:5ZWM: Saccharomyces cerevisiae U5 snRNA
+design_name:6AZ3: Leishmania donovani rRNA delta
+design_name:6AZ3: Leishmania donovani rRNA gamma, srRNA1
+design_name:6CB3: L.Lactis YkoY riboswitch
+design_name:6CK5: Thermoanaerobacter mathranii Guanidine-I riboswitch
+design_name:6D90: Cricket paralysis virus CrPV-IRES
+design_name:6D9J: Cricket paralysis virus CrPV IRES
+design_name:6DLR: Syntrophothermus lipocalidus Guanidine-I riboswitch
+design_name:6DME: Sulfobacillus acidophilus ppGpp riboswitch
+design_name:6DVK: Synthetic
+design_name:6E8U: Mango-III fluorogenic RNA aptamer
+design_name:6EM3: Saccharomyces cerevisiae 5.8S
+design_name:6FF4: Homo sapiens U6 snRNA
+design_name:6FZ0: metY SAM-V riboswitch
+design_name:6G90: Saccharomyces cerevisiae U2 snRNA
+design_name:6GYV: Didymium iridis Lariat-capping ribozyme
+design_name:6HAG: SAM/SAH-binding riboswitch
+design_name:6JDV: Synthetic sgRNA
+design_name:6JOO: Corynebacterium diphtheriae guide RNA
+design_name:6MCB: Streptococcus pyogenes tracrRNA
+design_name:6MJ0: turnip yellow mosaic virus
+design_name:6MWN: Hepatovirus A IRES
+design_name:6OL3: Human adenovirus 2
+design_name:6OL3: Human mastadenovirus C
+design_name:6QW6: Homo sapiens U6 snRNA
+design_name:6QW6: Homo sapiens U6 snRNA
+design_name:6R47: Alistipes putredinis pistol ribozyme
+design_name:6R6G: Canis lupus 7S
+design_name:6UES: Mycobacterium sp. MCS SAM-IV riboswitch
+design_name:6UFG: Mycobacterium tuberculosis
+design_name:6UFH: Mycobacterium tuberculosis
+design_name:6VMY: B. subtilis cobalamin riboswitch
+design_name:6VUH: APO PreQ1 riboswitch
+design_name:6VUI: PreQ1 riboswitch
+design_name:6WBR: AceCas9
+design_name:6WZR: Fusibacterium ulcerans ZTP riboswitch
+design_name:6WZS: Fusibacterium ulcerans ZTP riboswitch
+design_name:6XKN: Faecalibacterium prausnitzii Class III PreQ1 riboswitch mutant A84G
+design_name:6XKO: Faecalibacterium prausnitzii Class III PreQ1 riboswitch mutant A84G
+design_name:6XMF: Lachnospiraceae bacterium ND2006
+design_name:6XRZ: Severe acute respiratory syndrome coronavirus 2
+design_name:6XYW: Arabidopsis thaliana ribosome
+design_name:6ZJ3: atypical cytoplasmic ribosome of Euglena gracilis
+design_name:6ZVK: Halastavi arva virus
+design_name:7A01: Halastavi arva RNA virus
+design_name:7B0Y: Homo sapiens U1 snRNA
+design_name:7C7L: Synthetic sgRNA
+design_name:7D8O: E. coli ToxIN type III toxin-antitoxin complex
+design_name:7DA7: Mus musculus RMRP
+design_name:7DCO: Saccharomyces cerevisiae U5 snRNA
+design_name:7EVO: Homo sapiens U2 snRNA
+design_name:7JIL: Flavobacterium johnsoniae 5S
+design_name:7JRS: 3D nanocage
+design_name:7JRT: Synthetic nano bracelet
+design_name:7KD1: Tetrahydrofolate riboswitch
+design_name:7KGA: Donggang virus
+design_name:7KGB: Mycobacterium tuberculosis 5S
+design_name:7L49: Synthetic sgRNA
+design_name:7LYG: Zika virus RNA promoter stem-loop A with tRNA-scaffold
+design_name:7LYJ: SARS-CoV-2 frameshifting pseudoknot RNA
+design_name:7MKY: SARS-CoV-2 frameshifting pseudoknot RNA
+design_name:7MLX: SARS-CoV-2 programmed -1 frameshifting
+design_name:7MQ8: Homo sapiens U3 snoRNA
+design_name:7MQA: Homo sapiens U3 snoRNA
+design_name:7O7Z_9|Chain I[auth AH]
+design_name:7P6Z: Mycoplasma pneumoniae M129 5S
+design_name:7PKT: Chlamydomonas reinhardtii L1 rRNA
+design_name:7PKT: Chlamydomonas reinhardtii L3b rRNA
+design_name:7PWO: Giardia lamblia ATCC 50803 5S
+design_name:7QEP: Encephalitozoon cuniculi GB-M1 5S
+design_name:7QGG: Rattus norvegicus 5S
+design_name:7R6K: Saccharomyces cerevisiae BY4741
+design_name:7R7C: Saccharomyces cerevisiae BY4741 25S rRNA
+design_name:7REX: Carnobacterium antarcticum PreQ1-1 (type-1) riboswitch
+design_name:7RQB: Thermus thermophilus 5S
+design_name:7RYG: Acinetobacter baumannii AB0057 5S
+design_name:7UTN: synthetic construct
+design_name:7UY6: Tetrahymena thermophila, Telomerase RNA
+design_name:7VYX: E. coli sgRNA
+design_name:7WAY: Planctomycetota bacterium
+design_name:7WAZ: Planctomycetes bacterium
+design_name:7WB1: Planctomycetes bacterium
+design_name:7WJU: Synthetic sgRNAv1
+design_name:7XHT: IscB-omega RNA ribonucleoprotein complex
+design_name:7XUI: Escherichia virus HK022
+design_name:7YOJ: Armatimonadetes bacterium
+design_name:7ZJX: Cricket paralysis virus
+design_name:88F8: Deinococcus radiodurans R1 chromosome 1
+design_name:8B0J: Escherichia coli K-12 GlmZ sRNA
+design_name:8FB3: PreQ1-1 (type-1) riboswitch
+design_name:8FFR: Synthetic
+design_name:8G9Z: Homo sapiens SepSecS
+design_name:AA229751.1
+design_name:AB102782.1
+design_name:ABYJ02000357.1
+design_name:AF089830.1
+design_name:AF175014.1
+design_name:AJ002412.1
+design_name:AJ237583.1
+design_name:AJ488205.1
+design_name:AM259418.1
+design_name:AY344770.1
+design_name:Acidobacteria bacterium partial transfer-messenger RNA
+design_name:Aedes albopictus (Asian tiger mosquito) drz-agam-1 ribozyme #g-quad #i-motif #184nt
+design_name:Alligator mississippiensis (American alligator) Small nucleolar RNA SNORA9
+design_name:Alphaproteobacteria bacterium (marine metagenome) partial transfer-messenger RNA
+design_name:Anas platyrhynchos Small Cajal body-specific RNA 7 URS0000D946A5_8839 #G-quad #RF01295
+design_name:Astros-Arabidopsis thaliana (thale cress) microRNA MIR169_2 URS0000693493_3702
+design_name:Astros-Danio rerio (zebrafish) snoRNA BX276180.3 (ENSDARG00000083108.2) URS000067B3D9_7955
+design_name:Astros-Detective-Design
+design_name:Astros-Homo sapiens (human) small nucleolar RNA, H/ACA box 73B (SNORA73B) URS00006422E6_9606
+design_name:Astros-Homo sapiens (human) small nucleolar RNA, H/ACA box 73B (SNORA73B) URS00006422E6_9606
+design_name:Astros-https://rnacentral.org/rna/URS00006422E6/9606
+design_name:Bacillus persicus Group II catalytic intron D1-D4-6 URS0000AFD6EF_930146 #G-quad #RF02005
+design_name:Beta-globin CoTC ribozyme
+design_name:BioGlow 12 Bindings — KR 1020200104928-A/3: RECOGNITION OF CELLULAR TARGET BINDING BY A BIOACTIVE AGENT USING INTRACELLULAR BIOLUMINESCENCE RESONANCE ENERGY TRANSFER 4122-4361
+design_name:BioGlow 12 Bindings — KR 1020200104928-A/3: RECOGNITION OF CELLULAR TARGET BINDING BY A BIOACTIVE AGENT USING INTRACELLULAR BIOLUMINESCENCE RESONANCE ENERGY TRANSFER 4123-4362
+design_name:BioGlow 12 Bindings — KR 1020200104928-A/3: RECOGNITION OF CELLULAR TARGET BINDING BY A BIOACTIVE AGENT USING INTRACELLULAR BIOLUMINESCENCE RESONANCE ENERGY TRANSFER 4232-4471
+design_name:BioGlow 12 Bindings — KR 1020200104928-A/3: RECOGNITION OF CELLULAR TARGET BINDING BY A BIOACTIVE AGENT USING INTRACELLULAR BIOLUMINESCENCE RESONANCE ENERGY TRANSFER 4472-4711
+design_name:BioGlow 12 Bindings — KR 1020200104928-A/3: RECOGNITION OF CELLULAR TARGET BINDING BY A BIOACTIVE AGENT USING INTRACELLULAR BIOLUMINESCENCE RESONANCE ENERGY TRANSFER 5093-5332
+design_name:BioGlow 12 Bindings — KR 1020200104928-A/3: RECOGNITION OF CELLULAR TARGET BINDING BY A BIOACTIVE AGENT USING INTRACELLULAR BIOLUMINESCENCE RESONANCE ENERGY TRANSFER 5094-5333
+design_name:BioGlow 12 Bindings — KR 1020200104928-A/3: RECOGNITION OF CELLULAR TARGET BINDING BY A BIOACTIVE AGENT USING INTRACELLULAR BIOLUMINESCENCE RESONANCE ENERGY TRANSFER 6748-6987
+design_name:BioGlow 12 Bindings — KR 1020200104928-A/3: RECOGNITION OF CELLULAR TARGET BINDING BY A BIOACTIVE AGENT USING INTRACELLULAR BIOLUMINESCENCE RESONANCE ENERGY TRANSFER 6751-6990
+design_name:BioGlow 12 Bindings — KR 1020200104928-A/3: RECOGNITION OF CELLULAR TARGET BINDING BY A BIOACTIVE AGENT USING INTRACELLULAR BIOLUMINESCENCE RESONANCE ENERGY TRANSFER 6752-6991
+design_name:BioGlow 12 Bindings — KR 1020200104928-A/3: RECOGNITION OF CELLULAR TARGET BINDING BY A BIOACTIVE AGENT USING INTRACELLULAR BIOLUMINESCENCE RESONANCE ENERGY TRANSFER 6796-7035
+design_name:BioGlow 12 Bindings — KR 1020200104928-A/3: RECOGNITION OF CELLULAR TARGET BINDING BY A BIOACTIVE AGENT USING INTRACELLULAR BIOLUMINESCENCE RESONANCE ENERGY TRANSFER 6814-7053
+design_name:BioGlow 12 Bindings — KR 1020200104928-A/3: RECOGNITION OF CELLULAR TARGET BINDING BY A BIOACTIVE AGENT USING INTRACELLULAR BIOLUMINESCENCE RESONANCE ENERGY TRANSFER 6815-7054
+design_name:BioGlow 12 Bindings — KR 1020200104928-A/3: RECOGNITION OF CELLULAR TARGET BINDING BY A BIOACTIVE AGENT USING INTRACELLULAR BIOLUMINESCENCE RESONANCE ENERGY TRANSFER 6816-7055
+design_name:BioGlow 12 Bindings — KR 1020200104928-A/3: RECOGNITION OF CELLULAR TARGET BINDING BY A BIOACTIVE AGENT USING INTRACELLULAR BIOLUMINESCENCE RESONANCE ENERGY TRANSFER 6823-7062
+design_name:BioGlow 12 Bindings — KR 1020200104928-A/3: RECOGNITION OF CELLULAR TARGET BINDING BY A BIOACTIVE AGENT USING INTRACELLULAR BIOLUMINESCENCE RESONANCE ENERGY TRANSFER 709-948
+design_name:BioGlow 12 Bindings — KR 1020200104928-A/3: RECOGNITION OF CELLULAR TARGET BINDING BY A BIOACTIVE AGENT USING INTRACELLULAR BIOLUMINESCENCE RESONANCE ENERGY TRANSFER 711-950
+design_name:BioGlow 12 Bindings — KR 1020200104928-A/3: RECOGNITION OF CELLULAR TARGET BINDING BY A BIOACTIVE AGENT USING INTRACELLULAR BIOLUMINESCENCE RESONANCE ENERGY TRANSFER 714-953
+design_name:Braveheart fragment 2
+design_name:Braveheart fragment 3
+design_name:Burkholderia sp. Leaf177 Burkholderia sRNA Bp1_Cand871_SIPHT URS0000C3E2D4_1736287 #G-quad
+design_name:Casuarina glauca (swamp oak) Early nodulin 40 URS0002331782_3522
+design_name:Casuarina glauca (swamp oak) Early nodulin 40 URS0002331782_3522
+design_name:CavePeople— Homo sapiens neanderthalensis mitochondrion, complete genome 1294-1533
+design_name:Citrobacter rodentium ICC168 IS102 RNA URS0000678DD0_637910
+design_name:Coriobacteriaceae bacterium 68-1-3 raiA RNA URS0000E5FE2B_1531429
+design_name:Coriobacteriaceae bacterium JC110 raiA RNA URS0000D6AC52_1034345
+design_name:D00586.1
+design_name:DN255754.1
+design_name:Desulfitobacterium hafniense Y51 BsrG URS000069AC50_138119 #G-quad #i-motif
+design_name:Desulfosarcina cetonica group-II-D1D4-6 URS000220216A_90730 #G-quad #RF02005
+design_name:Dinosaurs are Realz — Big PseudoKnotz — A dinosaur sequence appears on page 103 of Jurassic Park, by Michael Crichton (Ballantyne Books, 1993)
+design_name:Donggang virus 5' UTR
+design_name:EF580739.1
+design_name:EF591852.1
+design_name:ES446010.1
+design_name:EU018672.1
+design_name:EU542796.1
+design_name:EZ006377.1
+design_name:Eboling for Columbindings —12+bindings—Zaire Ebola virus L gene encoding L-polymerase, strain Mayinga 3442-3681
+design_name:Eboling for Columbindings —12+bindings—Zaire Ebola virus L gene encoding L-polymerase, strain Mayinga 3443-3682
+design_name:Eboling for Columbindings —12+bindings—Zaire Ebola virus L gene encoding L-polymerase, strain Mayinga 3444-3683
+design_name:Eboling for Columbindings —12+bindings—Zaire Ebola virus L gene encoding L-polymerase, strain Mayinga 3446-3685
+design_name:Eboling for Columbindings —12+bindings—Zaire Ebola virus L gene encoding L-polymerase, strain Mayinga 3447-3686
+design_name:Eboling for Columbindings —12+bindings—Zaire Ebola virus L gene encoding L-polymerase, strain Mayinga 3452-3691
+design_name:Eboling for Columbindings —12+bindings—Zaire Ebola virus L gene encoding L-polymerase, strain Mayinga 3461-3700
+design_name:Eboling for Columbindings —12+bindings—Zaire Ebola virus L gene encoding L-polymerase, strain Mayinga 3469-3708
+design_name:Eboling for Columbindings —12+bindings—Zaire Ebola virus L gene encoding L-polymerase, strain Mayinga 4541-4780
+design_name:Eboling for Columbindings —12+bindings—Zaire Ebola virus L gene encoding L-polymerase, strain Mayinga 4552-4791
+design_name:Eboling for Columbindings —12+bindings—Zaire Ebola virus L gene encoding L-polymerase, strain Mayinga 4555-4794
+design_name:Eboling for Columbindings —12+bindings—Zaire Ebola virus L gene encoding L-polymerase, strain Mayinga 4556-4795
+design_name:Eboling for Columbindings —12+bindings—Zaire Ebola virus L gene encoding L-polymerase, strain Mayinga 4557-4796
+design_name:Eboling for Columbindings —12+bindings—Zaire Ebola virus L gene encoding L-polymerase, strain Mayinga 4558-4797
+design_name:Eboling for Columbindings —12+bindings—Zaire Ebola virus L gene encoding L-polymerase, strain Mayinga 4559-4798
+design_name:Eboling for Columbindings —12+bindings—Zaire Ebola virus L gene encoding L-polymerase, strain Mayinga 4562-4801
+design_name:Eboling for Columbindings —12+bindings—Zaire Ebola virus L gene encoding L-polymerase, strain Mayinga 4564-4803
+design_name:Eboling for Columbindings —12+bindings—Zaire Ebola virus L gene encoding L-polymerase, strain Mayinga 4565-4804
+design_name:Eboling for Columbindings —12+bindings—Zaire Ebola virus L gene encoding L-polymerase, strain Mayinga 4566-4805
+design_name:Eggerthella sp. CAG:1427 raiA RNA URS0000E5FC89_1262874
+design_name:Enterorhabdus caecimuris B7 raiA RNA URS0000E60678_1235794
+design_name:Escherichia coli str. K-12 substr. MG1655 Short Intergenic Abundant RNA URS00002B6EFE_511145 #G-quad
+design_name:F8 Exon16
+design_name:F8 Exon16 MT15
+design_name:F8 Exon16 Mut11
+design_name:F8 Exon16 Mut2
+design_name:F8 Exon16 Mut4
+design_name:F8 Exon16 Mut7
+design_name:F8 Exon16 Mut8
+design_name:F8 Exon18 MT9
+design_name:F8 Exon18 WT
+design_name:F8 Intron 15
+design_name:F8 Intron 16
+design_name:FJ232960.1
+design_name:FJ443014.1
+design_name:FJ804749.1
+design_name:FRID-predicted structure of PFP 9331
+design_name:FTX 3
+design_name:Fufi-1
+design_name:GAFU01016523.1
+design_name:GD264266.1
+design_name:Gordonibacter pamelaeae 7-10-1-b raiA RNA URS0000E5FDF9_657308 #G-quad
+design_name:Group 1 Self Splicing Intron
+design_name:HBDT01132626.1
+design_name:HOTAIRM1
+design_name:HOTAIRM1_2
+design_name:HQ709415.1
+design_name:HQ709419.1
+design_name:HQ709423.1
+design_name:Helianthus annuus (common sunflower) sRNA HanXRQr2_Chr04g0154221 URS0000D75612_4232 #G-quad
+design_name:Helianthus annuus ncRNA
+design_name:Homo sapiens (human) RNA, U105C small nucleolar (RNU105C)
+design_name:Homo sapiens (human) RNA, U2 small nuclear 1 (RNU2-1)
+design_name:Homo sapiens (human) small Cajal body-specific RNA 17 (ENSG00000251992.1) URS000068D799_9606 #SCARNA17 #RF00492
+design_name:Homo sapiens (human) small nucleolar RNA, C/D box 97 (SNORD97)
+design_name:Homo sapiens (human) small nucleolar RNA, H/ACA box 74C-2 (SNORA74C-2)
+design_name:Homo sapiens (human) small nucleolar RNA, H/ACA box 87 (SNORA87)
+design_name:Homo sapiens chromosome 1, GRCh38.p14 Primary Assembly
+design_name:Homo sapiens chromosome 1, GRCh38.p14 Primary Assembly
+design_name:Homo sapiens chromosome 1, GRCh38.p14 Primary Assembly
+design_name:Hordeum vulgare long-non-coding RNA(HVUL_LNCOOO8323)
+design_name:J00904.1
+design_name:JR_PKB102 _satellite tobacco mosaic virus
+design_name:Jieux has Jurassic Dream: this is a riff on that dream
+design_name:KM251803.1
+design_name:KX897963.1
+design_name:Laccaria bicolor S238N-H82 Small nucleolar RNA snR191 URS0000666DE8_486041 #G-quad
+design_name:Lachancea thermotolerans CBS 6340 Small nucleolar RNA snR83 URS00006D18A4_559295
+design_name:Leptospira interrogans serovar Icterohaemorrhagiae str. Verdun HP Lig 5' UTR thermometer URS0000D7F93F_1049910
+design_name:Leptospira interrogans serovar Lai str. 56601 Lig 5' UTR thermometer URS0000D82C98_189518
+design_name:Leptospira interrogans serovar Lai str. 56601 Lig 5' UTR thermometer URS0000D82C98_189518
+design_name:Leptospira interrogans serovar Lai str. 56601 Lig 5' UTR thermometer URS0000DAC707_189518
+design_name:Loa loa bmkettin partial mRNA
+design_name:Loquat virus A, complete genome
+design_name:M20669.1
+design_name:M74245.1
+design_name:M74245.1
+design_name:MAG: Hainan alphaflexivirus 2 isolate R87-k141_314575 replicase gene, partial cds; and NTP-binding helicase and hypothetical protein genes, complete cds
+design_name:MK263402.1
+design_name:MN597780.1 P
+design_name:MalK-I
+design_name:MalK-I
+design_name:Marco Polio — Homo sapiens poliovirus receptor, mRNA (cDNA clone MGC:9603 IMAGE:3902226), complete cds 161-400
+design_name:Marco Polio — Homo sapiens poliovirus receptor, mRNA (cDNA clone MGC:9603 IMAGE:3902226), complete cds 163-402
+design_name:Marco Polio — Homo sapiens poliovirus receptor, mRNA (cDNA clone MGC:9603 IMAGE:3902226), complete cds 2830-3069
+design_name:Marco Polio — Homo sapiens poliovirus receptor, mRNA (cDNA clone MGC:9603 IMAGE:3902226), complete cds 2835-3074
+design_name:Marco Polio — Homo sapiens poliovirus receptor, mRNA (cDNA clone MGC:9603 IMAGE:3902226), complete cds 570-809
+design_name:Marco Polio — Homo sapiens poliovirus receptor, mRNA (cDNA clone MGC:9603 IMAGE:3902226), complete cds 986-1225
+design_name:Marco Polio — Homo sapiens poliovirus receptor, mRNA (cDNA clone MGC:9603 IMAGE:3902226), complete cds 988-1227
+design_name:Marco Polio — Homo sapiens poliovirus receptor, mRNA (cDNA clone MGC:9603 IMAGE:3902226), complete cds 989-1228
+design_name:Myotis brandtii Small Cajal body specific RNA 13 URS0000C2435C_109478
+design_name:Myotis brandtii Small Cajal body specific RNA 13 URS0000C2435C_109478
+design_name:NZ_AKAV01000182.1
+design_name:NZ_ASGK01000230.1
+design_name:NZ_CABWER010000427.1
+design_name:NZ_CAJSJB010000193.1
+design_name:NZ_CAMPQT010000059.1
+design_name:NZ_FTPH01000656.1
+design_name:NZ_JAMKVF010000565.1
+design_name:NZ_JANAHO010000129.1
+design_name:NZ_JARXOV010000065.1
+design_name:NZ_LXKG01000163.1
+design_name:NZ_MINV01000614.1
+design_name:NZ_NIAV01000083.1
+design_name:NZ_PNCV01000113.1
+design_name:NZ_QTKH01000013.1
+design_name:NZ_VLGC01001665.1
+design_name:NZ_VTWD01000520.1
+design_name:Nannochloropsis gaditana ACEA small nucleolar RNA U3 URS0000C21C38_72520
+design_name:Naumovozyma castellii CBS 4309 Small nucleolar RNA snR31 URS0000723DED_1064592
+design_name:OK573104.1
+design_name:OK573104.1
+design_name:ON638020.1
+design_name:Otolemur garnettii (small-eared galago) Small Cajal body specific RNA 13 URS00006AC205_30611 #G-quad
+design_name:P4P62HP NotAPseudoknot
+design_name:PKB100: satellite tobacco mosaic virus
+design_name:PKB101: satellite tobacco mosaic virus
+design_name:PKB102: satellite tobacco mosaic virus
+design_name:PKB103: satellite tobacco mosaic virus
+design_name:PKB104: satellite tobacco mosaic virus
+design_name:PKB105: satellite tobacco mosaic virus
+design_name:PKB106: infectious bronchitis virus
+design_name:PKB107: simian retrovirus-1
+design_name:PKB108: Tetrahymena thermophila
+design_name:PKB109: beet virus Q
+design_name:PKB10: ononis yellow mosaic virus
+design_name:PKB110: beet virus Q
+design_name:PKB111: beet virus Q
+design_name:PKB112: beet virus Q
+design_name:PKB113: beet virus Q
+design_name:PKB114: beet virus Q
+design_name:PKB115: beet soil-borne virus
+design_name:PKB116: beet soil-borne virus
+design_name:PKB117: beet soil-borne virus
+design_name:PKB118: beet soil-borne virus
+design_name:PKB119: beet soil-borne virus
+design_name:PKB11: clitoria yellow vein virus
+design_name:PKB120: beet soil-borne virus
+design_name:PKB121: satellite tobacco necrosis virus 1
+design_name:PKB122: satellite tobacco necrosis virus 1
+design_name:PKB123: satellite tobacco necrosis virus 1
+design_name:PKB124: satellite tobacco necrosis virus 2
+design_name:PKB125: satellite tobacco necrosis virus 2
+design_name:PKB126: satellite tobacco necrosis virus 2
+design_name:PKB127: equine arteritis virus
+design_name:PKB128: Berne virus
+design_name:PKB129: E.coli
+design_name:PKB12: wild cucumber mosaic virus
+design_name:PKB130: tobacco rattle virus
+design_name:PKB131: None
+design_name:PKB132: None
+design_name:PKB133: None
+design_name:PKB134: brome mosaic virus
+design_name:PKB135: broad bean mottle virus
+design_name:PKB136: cowpea chlorotic mottle virus
+design_name:PKB137: cucumber mosaic virus
+design_name:PKB138: barley stripe mosaic virus
+design_name:PKB139: tobacco mosaic virus
+design_name:PKB13: calopogonium yellow vein virus
+design_name:PKB140: cucumber green mottle mosaic virus
+design_name:PKB141: tobacco mild green mosaic virus
+design_name:PKB142: satellite tobacco mosaic virus
+design_name:PKB143: pepper mild mottle virus
+design_name:PKB144: odontoglossum ringspot virus
+design_name:PKB145: odontoglossum ringspot virus
+design_name:PKB146: odontoglossum ringspot virus
+design_name:PKB147: Saccharomyces cerevisiae
+design_name:PKB148: Escherichia coli
+design_name:PKB149: Escherichia coli
+design_name:PKB14: andean potato latent virus
+design_name:PKB150: Escherichia coli
+design_name:PKB151: barley stripe mosaic virus
+design_name:PKB152: barley stripe mosaic virus
+design_name:PKB153: barley stripe mosaic virus
+design_name:PKB154: brome mosaic virus
+design_name:PKB155: brome mosaic virus
+design_name:PKB156: brome mosaic virus
+design_name:PKB157: brome mosaic virus
+design_name:PKB158: tobacco rattle virus, strain PSG
+design_name:PKB159: tobacco rattle virus, strain PSG
+design_name:PKB15: eggplant mosaic virus
+design_name:PKB160: tobacco rattle virus, strain PSG
+design_name:PKB161: tobacco rattle virus, strain PSG
+design_name:PKB162: tobacco rattle virus, strain PSG
+design_name:PKB163: Homo sapiens
+design_name:PKB164: poa semilatent virus
+design_name:PKB165: poa semilatent virus
+design_name:PKB166: poa semilatent virus
+design_name:PKB167: poa semilatent virus
+design_name:PKB168: lychnis ringspot virus
+design_name:PKB169: Coxsackie B virus
+design_name:PKB16: okra mosaic virus
+design_name:PKB170: plasmid ColIb-P9
+design_name:PKB171: human coronavirus 229E
+design_name:PKB172: bamboo mosaic virus
+design_name:PKB173: Satellite cereal yellow dwarf virus-RPV RNA
+design_name:PKB174: Rous sarcoma virus
+design_name:PKB175: None
+design_name:PKB176: None
+design_name:PKB177: Rattus rattus (black rat)
+design_name:PKB178: Neurospora intermedia
+design_name:PKB179: plasmid pMU407.1 (IncL/M)
+design_name:PKB17: tobacco mosaic virus
+design_name:PKB180: plasmid pMU720 (IncB)
+design_name:PKB181: hepatitis C virus
+design_name:PKB182: soil-borne rye mosaic virus
+design_name:PKB183: soil-borne rye mosaic virus
+design_name:PKB184: soil-borne rye mosaic virus
+design_name:PKB185: soil-borne rye mosaic virus
+design_name:PKB186: soil-borne rye mosaic virus
+design_name:PKB187: soil-borne rye mosaic virus
+design_name:PKB188: soil-borne rye mosaic virus
+design_name:PKB189: soil-borne rye mosaic virus
+design_name:PKB18: tobacco mosaic virus
+design_name:PKB190: Plautia stali intestine virus
+design_name:PKB191: alfalfa mosaic virus
+design_name:PKB192: bacteriophage Q-beta
+design_name:PKB193: Escherichia coli
+design_name:PKB194: soil-borne wheat mosaic virus
+design_name:PKB195: soil-borne wheat mosaic virus
+design_name:PKB196: soil-borne wheat mosaic virus
+design_name:PKB197: soil-borne wheat mosaic virus
+design_name:PKB198: soil-borne wheat mosaic virus
+design_name:PKB199: soil-borne wheat mosaic virus
+design_name:PKB19: pepper mild mottle virus
+design_name:PKB1: Bovine Leukemia Virus
+design_name:PKB200: soil-borne wheat mosaic virus
+design_name:PKB201: soil-borne wheat mosaic virus
+design_name:PKB202: soil-borne wheat mosaic virus
+design_name:PKB203: soil-borne wheat mosaic virus
+design_name:PKB204: soil-borne wheat mosaic virus
+design_name:PKB205: Palmaria palmata
+design_name:PKB206: Homo sapiens
+design_name:PKB207: Bos Taurus (cow)
+design_name:PKB208: Bovine viral diarrhea virus
+design_name:PKB209: Classical swine fever virus (hog cholera virus)
+design_name:PKB20: cucumber green mottle mosaic virus
+design_name:PKB210: Bordetella pertussis
+design_name:PKB211: Plautia stali intestine virus
+design_name:PKB212: Plautia stali intestine virus
+design_name:PKB213: Himetobi P virus
+design_name:PKB214: Himetobi P virus
+design_name:PKB215: Himetobi P virus
+design_name:PKB216: Drosophila C virus
+design_name:PKB217a: lactate dehydrogenase-elevating virus, strain C
+design_name:PKB217b: lactate dehydrogenase-elevating virus, strain C
+design_name:PKB218: Porcine reproductive and respiratory syndrome virus, North American isolate (16244B)
+design_name:PKB219: Drosophila C virus
+design_name:PKB21: tobacco mosaic virus
+design_name:PKB220: Drosophila C virus
+design_name:PKB221: Cricket paralysis virus
+design_name:PKB222: Cricket paralysis virus
+design_name:PKB223: Cricket paralysis virus
+design_name:PKB224: Triatoma virus
+design_name:PKB225: Triatoma virus
+design_name:PKB226: Triatoma virus
+design_name:PKB227: Black queen cell virus
+design_name:PKB228: Black queen cell virus
+design_name:PKB229: Black queen cell virus
+design_name:PKB22: satellite tobacco mosaic virus
+design_name:PKB230: Rhopalosiphum padi virus
+design_name:PKB231: Rhopalosiphum padi virus
+design_name:PKB232: Rhopalosiphum padi virus
+design_name:PKB233: Porcine reproductive and respiratory syndrome virus, European Lelystad strain (LV)
+design_name:PKB234: Variovorax paradoxus
+design_name:PKB235: Giardiavirus
+design_name:PKB236: Homo sapiens
+design_name:PKB237: West Nile virus
+design_name:PKB238: Dengue virus type 2
+design_name:PKB239: human immunodeficiency virus type 1 (Mal isolate)
+design_name:PKB23: tobacco mild green mosaic virus
+design_name:PKB240: beet chlorosis virus
+design_name:PKB241: Montana Myotis leukoencephalitis virus
+design_name:PKB242: Rio Bravo virus
+design_name:PKB243: Homo sapiens
+design_name:PKB244: hepatitis A virus
+design_name:PKB245: Human Parechovirus 1
+design_name:PKB246: Hepatitis C Virus
+design_name:PKB247: Nemesia ring necrosis virus
+design_name:PKB248: Nemesia ring necrosis virus
+design_name:PKB249: Nemesia ring necrosis virus
+design_name:PKB24: paprika mild mottle virus
+design_name:PKB250: Nemesia ring necrosis virus
+design_name:PKB251: Nemesia ring necrosis virus
+design_name:PKB252: None
+design_name:PKB253: White Bream Virus
+design_name:PKB254: SARS coronavirus
+design_name:PKB255: mouse hepatitis virus
+design_name:PKB256: bovine coronavirus
+design_name:PKB257: Mus musculus (mouse)
+design_name:PKB258: Homo sapiens
+design_name:PKB259: potato yellow vein virus
+design_name:PKB25: turnip vein-clearing virus
+design_name:PKB260: potato yellow vein virus
+design_name:PKB261: potato yellow vein virus
+design_name:PKB262: cucumber yellows virus
+design_name:PKB263: cucurbit yellow stunting disorder virus
+design_name:PKB264: cucurbit yellow stunting disorder virus
+design_name:PKB265: sweet potato chlorotic stunt virus
+design_name:PKB266: lettuce infectious yellows virus
+design_name:PKB267: little cherry virus 1
+design_name:PKB268: beet yellows virus
+design_name:PKB269: citrus tristeza virus
+design_name:PKB26: oilseed rape mosaic virus
+design_name:PKB270: Pineapple mealybug wilt associated virus - 2
+design_name:PKB271: Grapevine leafroll-associated virus - 2
+design_name:PKB272: strawberry chlorotic fleck associated virus
+design_name:PKB273: influenza A virus, strain A/PR/8/34
+design_name:PKB274: influenza B virus, strain B/Victoria/02/1987
+design_name:PKB275: Bacillus subtilis
+design_name:PKB276: Bacillus subtilis
+design_name:PKB277: tobacco etch virus
+design_name:PKB278: tobacco etch virus
+design_name:PKB279: tobacco etch virus
+design_name:PKB27: pepper mild mottle virus
+design_name:PKB280: Visna-Maedi virus
+design_name:PKB281: sugarcane yellow leaf virus
+design_name:PKB282: foot-and-mouth disease virus, serotype A
+design_name:PKB283: foot-and-mouth disease virus, serotype A
+design_name:PKB284: foot-and-mouth disease virus, serotype A
+design_name:PKB285: foot-and-mouth disease virus, serotype O
+design_name:PKB286: foot-and-mouth disease virus, serotype O
+design_name:PKB287: foot-and-mouth disease virus, serotype O
+design_name:PKB288: foot-and-mouth disease virus, serotype O
+design_name:PKB289: foot-and-mouth disease virus, serotype C
+design_name:PKB28: odontoglossum ringspot virus
+design_name:PKB290: foot-and-mouth disease virus, serotype C
+design_name:PKB291: foot-and-mouth disease virus, serotype C
+design_name:PKB292: foot-and-mouth disease virus, serotype C
+design_name:PKB293: encephalomyocarditis virus
+design_name:PKB294: encephalomyocarditis virus
+design_name:PKB295: Mengovirus
+design_name:PKB296: Mengovirus
+design_name:PKB297: hepatitis A virus
+design_name:PKB298: hepatitis A virus
+design_name:PKB299: Theiler's murine encephalomyelitis virus
+design_name:PKB29: tobacco mosaic virus
+design_name:PKB2: Beet Western-Yellows Virus
+design_name:PKB300: None
+design_name:PKB301: None
+design_name:PKB302: None
+design_name:PKB303: Bombyx mori
+design_name:PKB304: B. subtilis
+design_name:PKB305: Samia cynthia
+design_name:PKB306: Coscinocera hercules
+design_name:PKB307: Callosamia promethea
+design_name:PKB308: Saturnia pyri
+design_name:PKB309: Bos taurus (cow)
+design_name:PKB30: soil-borne wheat mosaic virus
+design_name:PKB310: Canis familiaris (dog)
+design_name:PKB311: Callitrix jacchus (marmoset)
+design_name:PKB312: Mus musculus (mouse)
+design_name:PKB313: Sus scrofa (pig)
+design_name:PKB314: cow
+design_name:PKB315: dog
+design_name:PKB316: Homo sapiens
+design_name:PKB317: elephant
+design_name:PKB318: opossum
+design_name:PKB319: mouse
+design_name:PKB31: soil-borne wheat mosaic virus
+design_name:PKB320: rabbit
+design_name:PKB321: chimpanzee
+design_name:PKB322: rat
+design_name:PKB323: Anopheles gambiae
+design_name:PKB324: Anopheles gambiae
+design_name:PKB325: Branchiostoma floridae
+design_name:PKB326: Branchiostoma floridae
+design_name:PKB327: Anopheles gambiae
+design_name:PKB328: Anopheles gambiae
+design_name:PKB329: Anopheles gambiae
+design_name:PKB32: potato mop-top virus
+design_name:PKB330: Strongylocentrotus purpuratus
+design_name:PKB331: Strongylocentrotus purpuratus
+design_name:PKB332: Strongylocentrotus purpuratus
+design_name:PKB333: Strongylocentrotus purpuratus
+design_name:PKB334: Strongylocentrotus purpuratus
+design_name:PKB335: Caenorhabditis japonica
+design_name:PKB336: Pristionchus pacificus
+design_name:PKB337: Pristionchus pacificus
+design_name:PKB338: Petromyzon marinus
+design_name:PKB339: Faecalibacterium prausnitzii
+design_name:PKB33: peanut clump virus
+design_name:PKB340: Invertebrate iridescent virus 6
+design_name:PKB341: Diplonema papillatum
+design_name:PKB342: Trichoderma atroviride
+design_name:PKB343: Ralstonia solanacearum
+design_name:PKB344: Thermoanaerobacter tengcongensis
+design_name:PKB345: Sargasso Sea metagenome
+design_name:PKB346: West Nile virus, Kunijn subtype
+design_name:PKB347: West Nile virus
+design_name:PKB348: Japanese encephalitis virus
+design_name:PKB349: Murray Valley encephalitis virus
+design_name:PKB34: peanut clump virus
+design_name:PKB350: Alfuy virus
+design_name:PKB351: Usutu virus
+design_name:PKB352: Middelburg virus
+design_name:PKB353: Seal louse virus
+design_name:PKB354: Drosophila simulans
+design_name:PKB355: Drosophila yakuba
+design_name:PKB356: Drosophila ananassae
+design_name:PKB357: Drosophila pseudoobscura
+design_name:PKB358: Drosophila falleni
+design_name:PKB359: Pectobacterium atrosepticum
+design_name:PKB35: Indian peanut clump virus
+design_name:PKB360: Kluyveromyces lactis
+design_name:PKB361: Aichi virus
+design_name:PKB362: Canine Kobuvirus
+design_name:PKB363: Sheep Kobuvirus
+design_name:PKB364: Porcine Kobuvirus
+design_name:PKB365: Bovine Kobuvirus
+design_name:PKB366: Turdivirus 3
+design_name:PKB367: influenza A virus
+design_name:PKB368: Thin paspalum asymptomatic virus strain 2005
+design_name:PKB369: Panicum mosaic virus
+design_name:PKB36: beet soil-borne virus
+design_name:PKB370: Panicum mosaic virus
+design_name:PKB371: Cocksfoot mild mosaic virus
+design_name:PKB372: Cocksfoot mild mosaic virus
+design_name:PKB373: Homo sapiens
+design_name:PKB374: Escherichia coli K-12
+design_name:PKB375: Thin paspalum asymptomatic virus strain 2005
+design_name:PKB376: influenza A virus, strain A/PR/8/34
+design_name:PKB377: Adenovirus type 2
+design_name:PKB378: Thermoanaerobacter tengcongensis
+design_name:PKB379: Thermoanaerobacter pseudethanolicus
+design_name:PKB37: beet soil-borne virus
+design_name:PKB380: Thermovirga lienii
+design_name:PKB381: Bacillus subtilis
+design_name:PKB382: Strawberry necrotic shock virus
+design_name:PKB383: Tobacco streak virus
+design_name:PKB384: Blackberry chlorotic ringspot virus
+design_name:PKB385: Parietaria mottle virus
+design_name:PKB386: Tulare apple mosaic virus
+design_name:PKB387: Spinach latent virus
+design_name:PKB388: Citrus leaf rugose virus
+design_name:PKB389: Citrus variegation virus
+design_name:PKB38: beet soil-borne virus
+design_name:PKB390: Asparagus virus 2
+design_name:PKB391: Elm mottle virus
+design_name:PKB392: Lilac ring mottle virus
+design_name:PKB393: American plum line pattern virus
+design_name:PKB394: Humulus japonicus latent virus
+design_name:PKB395: Fragaria chiloensis latent virus
+design_name:PKB396: Prunus necrotic ringspot virus
+design_name:PKB397: Apple mosaic virus
+design_name:PKB398: Prune dwarf virus
+design_name:PKB39: beet virus Q
+design_name:PKB3: Equine Infectious Anemic Virus
+design_name:PKB40: beet virus Q
+design_name:PKB41: beet virus Q
+design_name:PKB42: potato leafroll virus
+design_name:PKB43: potato leafroll virus
+design_name:PKB44: cucurbit aphid-borne yellows virus
+design_name:PKB45: pea enation mosaic virus
+design_name:PKB46: barley yellow dwarf virus
+design_name:PKB47: Moloney murine leukemia virus
+design_name:PKB48: spleen necrosis virus
+design_name:PKB49: E.coli
+design_name:PKB4: Feline Immunodeficiency Virus
+design_name:PKB50: E.coli
+design_name:PKB51: E.coli
+design_name:PKB52: E.coli
+design_name:PKB53: tobacco mosaic virus
+design_name:PKB54: tobacco mosaic virus
+design_name:PKB55: tobacco mosaic virus
+design_name:PKB56: odontoglossum ringspot virus
+design_name:PKB57: tobacco mosaic virus
+design_name:PKB58: odontoglossum ringspot virus
+design_name:PKB59: odontoglossum ringspot virus
+design_name:PKB5: turnip yellow mosaic virus
+design_name:PKB60: odontoglossum ringspot virus
+design_name:PKB61: odontoglossum ringspot virus
+design_name:PKB62: odontoglossum ringspot virus
+design_name:PKB63: odontoglossum ringspot virus
+design_name:PKB64: E.coli
+design_name:PKB65: E.coli
+design_name:PKB66: None
+design_name:PKB67: Legionella pneumophila
+design_name:PKB68: Legionella pneumophila
+design_name:PKB69: Legionella pneumophila
+design_name:PKB6: kennedya yellow mosaic virus
+design_name:PKB70: Legionella pneumophila
+design_name:PKB71: E.coli
+design_name:PKB72: E.coli
+design_name:PKB73: T2 bacteriophage
+design_name:PKB74: bacteriophage T4
+design_name:PKB75: hepatitis delta virus ("Italy" variant)
+design_name:PKB76: hepatitis delta virus ("Italy" variant)
+design_name:PKB77: Tetrahymena thermophila
+design_name:PKB78: AKV murine leukemia virus
+design_name:PKB79: gibbon ape leukemia virus
+design_name:PKB7: cacao yellow mosaic virus
+design_name:PKB80: mouse mammary tumor virus
+design_name:PKB81: None
+design_name:PKB82: tobacco mosaic virus
+design_name:PKB83: tobacco mosaic virus
+design_name:PKB84: tobacco mosaic virus
+design_name:PKB85: tobacco mosaic virus
+design_name:PKB86: tobacco mosaic virus
+design_name:PKB87: tobacco mosaic virus
+design_name:PKB88: Feline leukemia virus
+design_name:PKB89: cucumber green mottle mosaic virus
+design_name:PKB8: physalis mottle virus
+design_name:PKB90: cucumber green mottle mosaic virus
+design_name:PKB91: cucumber green mottle mosaic virus
+design_name:PKB92: tobacco mild green mosaic virus
+design_name:PKB93: tobacco mild green mosaic virus
+design_name:PKB94: tobacco mild green mosaic virus
+design_name:PKB95: pepper mild mottle virus
+design_name:PKB96: pepper mild mottle virus
+design_name:PKB97: pepper mild mottle virus
+design_name:PKB98: baboon endogenous virus
+design_name:PKB99: Cas-Br-E murine leukemia virus
+design_name:PKB9: desmodium yellow mottle virus
+design_name:Paenibacillus macerans BsrG URS0000C6EC06_44252
+design_name:Pseudoknot revealing experiment #6D3P #xrRNA #1 base deletion 5’
+design_name:Pseudoknot revealing experiment #6D3P #xrRNA #2 base deletion 5’
+design_name:Pseudoknot revealing experiment #6D3P #xrRNA #3 base deletion 5’
+design_name:Pseudoknot revealing experiment #6D3P #xrRNA #4 base deletion 5’
+design_name:Pseudoknot revealing experiment #6D3P #xrRNA #5 base deletion 5’
+design_name:Pseudoknot revealing experiment #6D3P #xrRNA #6 base deletion 5’
+design_name:Pseudoknot revealing experiment #6D3P #xrRNA #9 base deletion 5’
+design_name:Pseudoknot revealing experiment #6D3P #xrRNA #control
+design_name:Pteropus alecto (black flying fox) Small nucleolar RNA SNORA74
+design_name:RF00001:5S ribosomal RNA:X01556.1/3-118
+design_name:RF00002:5.8S ribosomal RNA:L78065.1/3758-3910
+design_name:RF00003:U1 spliceosomal RNA:X06810.1/261-421
+design_name:RF00004:U2 spliceosomal RNA:AALT01209640.1/567-377
+design_name:RF00007:U12 minor spliceosomal RNA:AANN01056468.1/521-372
+design_name:RF00012:Small nucleolar RNA U3:AAPY01491858.1/243-27
+design_name:RF00013:6S / SsrS RNA:CR543861.1/1111804-1111620
+design_name:RF00015:U4 spliceosomal RNA:AAIY01144063.1/2359-2499
+design_name:RF00016:Small nucleolar RNA SNORD14:X96815.1/716-841
+design_name:RF00019:Y RNA:AAQQ01567293.1/1826-1938
+design_name:RF00020:U5 spliceosomal RNA:AAFC03028536.1/14883-14999
+design_name:RF00021:Spot 42 RNA:BX571860.1/72921-73037
+design_name:RF00022:GcvB RNA:U00096.2/2940718-2940923
+design_name:RF00025:Ciliate telomerase RNA:U22349.1/199-360
+design_name:RF00034:RprA RNA:BX950851.1/2106268-2106157
+design_name:RF00035:OxyS RNA:AL627279.1/144216-144327
+design_name:RF00038:PrfA thermoregulator UTR:AL591974.1/4468-4339
+design_name:RF00041:Enteroviral 3' UTR element:AY302558.1/7298-7418
+design_name:RF00045:Small nucleolar RNA SNORA73 family:AJ006836.1/1091-1295
+design_name:RF00050:FMN riboswitch (RFN element):U27202.1/210-335
+design_name:RF00056:Small nucleolar RNA SNORA71:AL080249.26/93236-93103
+design_name:RF00058:HgcF RNA (Pab35):AF468962.1/1-168
+design_name:RF00060:HgcE RNA (Pab105):AF468961.1/1-132
+design_name:RF00062:HgcC family RNA:AF468965.1/1-126
+design_name:RF00065:Small nucleolar RNA snoR9:AF468960.1/1-128
+design_name:RF00067:Small nucleolar RNA SNORD15:L16016.1/866-1013
+design_name:RF00072:Small nucleolar RNA SNORA75:AJ009730.1/1-133
+design_name:RF00077:SraB RNA:M29698.1/90-258
+design_name:RF00080:yybP-ykoY manganese riboswitch:AL954747.1/2722783-2722598
+design_name:RF00081:ArcZ RNA:X53315.1/2472-2365
+design_name:RF00082:SraG RNA:Y10692.1/1974-1797
+design_name:RF00083:GlmZ RNA activator of glmS mRNA:AM286415.1/218914-219136
+design_name:RF00090:Small nucleolar RNA SNORA74:AM055743.1/3-203
+design_name:RF00091:Small nucleolar RNA SNORA62/SNORA6 family:AF375472.1/1-148
+design_name:RF00092:Small nucleolar RNA SNORA63:U64705.1/82-210
+design_name:RF00096:U8 small nucleolar RNA:AL807389.7/15376-15244
+design_name:RF00097:Plant small nucleolar RNA R71:AJ429536.1/1-107
+design_name:RF00099:Small nucleolar RNA SNORD22:L36588.1/797-921
+design_name:RF00101:SraC/RyeA RNA:AL627272.1/127686-127830
+design_name:RF00102:VA RNA:U52574.1/118-289
+design_name:RF00113:Short Intergenic Abundant RNA:AL627278.1/13975-13826
+design_name:RF00114:Ribosomal S15 leader:CP000076.1/977408-977537
+design_name:RF00117:C0719 RNA:U28377.1/75750-75971
+design_name:RF00121:MicC RNA:AL627270.1/60166-60286
+design_name:RF00122:GadY:AF311305.1/31-144
+design_name:RF00124:IS102 RNA:AF200692.2/35693-35898
+design_name:RF00125:IS128 RNA:D10496.1/1236-1444
+design_name:RF00128:Glm Y RNA activator of glmS mRNA:AP008232.1/3036799-3036631
+design_name:RF00139:Small nucleolar RNA SNORA72:AC016710.7/58672-58803
+design_name:RF00140:Alpha operon ribosome binding site:BX950851.1/4490615-4490505
+design_name:RF00142:Small nucleolar RNA Z118/Z121/Z120:AJ490481.1/1-105
+design_name:RF00155:Small nucleolar RNA SNORA66:U66590.1/515-647
+design_name:RF00156:Small nucleolar RNA SNORA70:AC087315.21/91175-91310
+design_name:RF00163:Hammerhead ribozyme (type I):AF404068.1/70-185
+design_name:RF00166:PrrB/RsmZ RNA family:AB054812.1/583-450
+design_name:RF00168:Lysine riboswitch:U00006.1/98763-98567
+design_name:RF00171:Tombusvirus 5' UTR:AY163842.1/2-137
+design_name:RF00174:Cobalamin riboswitch:AF010496.1/39869-39653
+design_name:RF00182:Coronavirus packaging signal:JN874562.1/20063-20172
+design_name:RF00190:Small nucleolar RNA SNORA16B/SNORA16A family:AK092096.1/824-956
+design_name:RF00191:Small nucleolar RNA SNORA57:AC073153.16/108503-108650
+design_name:RF00195:RsmY RNA family:AY780887.1/24-141
+design_name:RF00198:SL1 RNA:U31639.1/55-159
+design_name:RF00199:SL2 RNA:M27263.1/115-224
+design_name:RF00201:Small nucleolar RNA Z278:AJ536282.1/1-115
+design_name:RF00225:Tobamovirus internal ribosome entry site (IRES):U03387.1/5455-5605
+design_name:RF00230:T-box leader:AE017335.3/64645-64865
+design_name:RF00232:Spi-1 (PU.1) 5' UTR regulatory element:AC090559.7/2975-2808
+design_name:RF00234:glmS glucosamine-6-phosphate activated ribozyme:AF270378.1/2268-2051
+design_name:RF00235:Plasmid RNAIII:X72021.1/463-336
+design_name:RF00243:traJ 5' UTR:AE006471.1/61487-61592
+design_name:RF00252:Alfalfa mosaic virus coat protein binding (CPB) RNA:U12510.1/700-876
+design_name:RF00259:Interferon gamma 5' UTR regulatory element:J00219.1/351-519
+design_name:RF00261:L-myc internal ribosome entry site (IRES):M19720.1/224-444
+design_name:RF00263:Small nucleolar RNA SNORA68:Y11162.1/1-133
+design_name:RF00264:Small nucleolar RNA SNORA64/SNORA10 family:AJ609432.1/1-133
+design_name:RF00265:Small nucleolar RNA SNORA69:Y11163.1/1-132
+design_name:RF00272:Small nucleolar RNA SNORA67:Y11161.1/1-137
+design_name:RF00286:Small Cajal body specific RNA 8:AY077742.1/1-131
+design_name:RF00290:Bamboo mosaic potexvirus (BaMV) cis-regulatory element:L77962.1/6225-6364
+design_name:RF00291:Small nucleolar RNA snoR639/H1:AANI01014830.1/134411-134552
+design_name:RF00294:Small nucleolar RNA TBR17:AF168728.1/150-269
+design_name:RF00302:Small nucleolar RNA SNORA65:EU240328.1/8-136
+design_name:RF00303:Small nucleolar RNA snoR86:AL138659.1/77819-77696
+design_name:RF00304:Small nucleolar RNA Z279/snoR105/snoR108:AL713946.3/150758-150869
+design_name:RF00305:Small nucleolar RNA Z248:AJ494961.1/1-137
+design_name:RF00306:Small nucleolar RNA Z178:AJ490412.1/1-152
+design_name:RF00307:Small nucleolar RNA snoR98:AJ505675.1/1-117
+design_name:RF00311:Small nucleolar RNA Z188:AACV01021456.1/15260-15139
+design_name:RF00312:Small nucleolar RNA Z206:AJ490472.1/1-132
+design_name:RF00313:Small nucleolar RNA Z173:AC078839.4/76753-76859
+design_name:RF00319:Small nucleolar RNA SNORA23:FJ915959.1/8-189
+design_name:RF00321:Small nucleolar RNA Z247:AC136222.2/290-162
+design_name:RF00322:Small nucleolar RNA SNORA31:AF357400.1/1-112
+design_name:RF00327:Small nucleolar RNA Z194:AK099797.1/502-609
+design_name:RF00334:Small nucleolar RNA SNORA3/SNORA45 family:AJ609428.1/1-130
+design_name:RF00336:Small nucleolar RNA J26:AY220656.1/1-147
+design_name:RF00337:Small nucleolar RNA Z112:AJ489963.1/1-178
+design_name:RF00340:Small nucleolar RNA SNORA36 family:AC129195.3/135944-135814
+design_name:RF00348:Small nucleolar RNA snoR9:AB016878.1/364-492
+design_name:RF00350:Small nucleolar RNA Z152/R70/R12/:AF317995.1/1-111
+design_name:RF00360:Small nucleolar RNA Z107/R87:AJ298135.1/1-115
+design_name:RF00369:sroC RNA:AL627267.1/186594-186434
+design_name:RF00372:sroH RNA:U00096.2/4188510-4188350
+design_name:RF00378:Qrr RNA:AF228519.1/623-518
+design_name:RF00379:ydaO/yuaA leader:AL939120.1/174742-174619
+design_name:RF00380:M-box riboswitch (ykoK leader):BX571871.1/238808-238637
+design_name:RF00383:Insertion sequence IS1222 ribosomal frameshifting element:X78052.1/454-571
+design_name:RF00387:FGF-1 internal ribosome entry site (IRES):M60515.1/145-312
+design_name:RF00389:Bamboo mosaic virus satellite RNA cis-regulatory element:AY205187.1/1-157
+design_name:RF00391:RtT RNA:K01197.1/984-1115
+design_name:RF00392:Small nucleolar RNA SNORA5:AJ609453.1/1-134
+design_name:RF00393:Small nucleolar RNA SNORA8:AJ609454.1/1-139
+design_name:RF00394:Small nucleolar RNA SNORA4:AJ609452.1/1-137
+design_name:RF00396:Small nucleolar RNA SNORA13:AJ609455.1/1-133
+design_name:RF00397:Small nucleolar RNA SNORA14:AJ609457.1/1-135
+design_name:RF00398:Small nucleolar RNA SNORA15:AJ609458.1/1-133
+design_name:RF00399:Small nucleolar RNA SNORA24:AL662805.13/69144-69017
+design_name:RF00400:Small nucleolar RNA SNORA28:AJ609462.1/1-126
+design_name:RF00401:Small nucleolar RNA SNORA20:AJ609459.1/1-132
+design_name:RF00402:Small nucleolar RNA SNORA25:AJ609461.1/1-133
+design_name:RF00403:Small nucleolar RNA SNORA41:AF357411.1/1-113
+design_name:RF00404:Small nucleolar RNA SNORA46:AJ609467.1/1-135
+design_name:RF00405:Small nucleolar RNA SNORA44:AF357394.1/1-116
+design_name:RF00406:Small nucleolar RNA SNORA42/SNORA80 family:AC005995.3/26676-26542
+design_name:RF00407:Small nucleolar RNA SNORA50:AC010287.9/54576-54441
+design_name:RF00408:Small nucleolar RNA SNORA1:AJ609425.1/1-130
+design_name:RF00409:Small nucleolar RNA SNORA7:AC109169.13/56788-56927
+design_name:RF00410:Small nucleolar RNA SNORA2/SNORA34 family:AC079951.35/117550-117416
+design_name:RF00411:Small nucleolar RNA SNORA9:AJ609431.1/1-133
+design_name:RF00412:Small nucleolar RNA SNORA21:AJ609436.1/1-133
+design_name:RF00413:Small nucleolar RNA SNORA19:AJ609435.1/1-128
+design_name:RF00414:Small nucleolar RNA SNORA22:AJ609437.1/1-134
+design_name:RF00415:Small nucleolar RNA SNORA30/SNORA37 family:AC061992.11/62174-62302
+design_name:RF00416:Small nucleolar RNA SNORA43:AJ609446.1/1-136
+design_name:RF00417:Small nucleolar RNA SNORA56:AJ609449.1/1-129
+design_name:RF00418:Small nucleolar RNA SNORA58:AJ609450.1/1-137
+design_name:RF00419:Small nucleolar RNA SNORA52:AJ609448.1/1-134
+design_name:RF00420:Small nucleolar RNA SNORA61:AJ609451.1/1-130
+design_name:RF00421:Small nucleolar RNA SNORA32:AJ609442.1/1-121
+design_name:RF00422:Small Cajal body specific RNA 24:AJ609482.1/1-130
+design_name:RF00423:Small Cajal body specific RNA 4:AJ609483.1/1-129
+design_name:RF00424:Small Cajal body specific RNA 16:AJ609486.1/1-187
+design_name:RF00425:Small nucleolar RNA SNORA18:AJ609471.1/1-132
+design_name:RF00426:Small Cajal body specific RNA 15:AJ609485.1/1-127
+design_name:RF00427:Small Cajal body specific RNA 23:AJ609470.1/1-125
+design_name:RF00428:Small nucleolar RNA SNORA38:AJ609474.1/1-132
+design_name:RF00429:Small nucleolar RNA SNORA29:AF357392.1/1-124
+design_name:RF00430:Small nucleolar RNA SNORA54:BX901883.5/169709-169573
+design_name:RF00431:Small nucleolar RNA SNORA55:AJ609480.1/1-137
+design_name:RF00432:Small nucleolar RNA SNORA51:AJ609477.1/1-132
+design_name:RF00433:Hsp90 cis-regulatory element:X03810.1/877-1028
+design_name:RF00437:Hairy RNA localisation element (HLE):AY055841.1/7634-7765
+design_name:RF00438:Small nucleolar RNA SNORA33:AK096147.1/2648-2777
+design_name:RF00441:Small nucleolar RNA Z242:AJ494948.1/1-194
+design_name:RF00442:Guanidine-I riboswitch:AY316747.1/71407-71301
+design_name:RF00443:Small nucleolar RNA SNORA27:AJ609439.1/1-126
+design_name:RF00444:PrrF RNA:AF055999.1/130-281
+design_name:RF00445:mir-399 microRNA precursor family:AC021043.4/36317-36195
+design_name:RF00448:Epstein-Barr virus nuclear antigen (EBNA) IRES:AY037858.1/48958-49174
+design_name:RF00452:mir-172 microRNA precursor family:AP006162.2/95640-95748
+design_name:RF00457:Mnt IRES:Y07609.1/151-354
+design_name:RF00458:Cripavirus internal ribosome entry site (IRES):AF178440.1/5925-6123
+design_name:RF00463:Apolipoprotein B (apoB) 5' UTR cis-regulatory element:AJ331299.1/203-76
+design_name:RF00471:Small nucleolar RNA snR48:DQ115391.1/34856-34969
+design_name:RF00473:Small nucleolar RNA snR54:AY864855.1/568-672
+design_name:RF00482:Small nucleolar RNA F1/F2/snoR5a:Z96806.1/1-140
+design_name:RF00483:Insulin-like growth factor II IRES:AC132217.15/106569-106689
+design_name:RF00484:Connexin-32 internal ribosome entry site (IRES):L47127.1/400-550
+design_name:RF00485:Potassium channel RNA editing signal:U06156.1/1880-1993
+design_name:RF00487:Connexin-43 internal ribosome entry site (IRES):AC010228.8/17300-17506
+design_name:RF00492:small Cajal body-specific RNA 17:AC090227.10/15587-15444
+design_name:RF00495:Heat shock protein 70 (Hsp70) internal ribosome entry site (IRES):S52686.1/274-488
+design_name:RF00504:Glycine riboswitch:AL766849.1/65640-65772
+design_name:RF00506:Threonine operon leader:M10393.1/122-16
+design_name:RF00512:Leucine operon leader:M64039.1/2-149
+design_name:RF00514:Histidine operon leader:AF353562.1/601-464
+design_name:RF00515:PyrR binding site:M59757.2/2712-2828
+design_name:RF00516:ylbH leader:AE017355.1/3773586-3773470
+design_name:RF00518:speF leader:BX897699.1/1421859-1421707
+design_name:RF00524:R2 RNA element:U13033.1/1423-1658
+design_name:RF00529:Small nucleolar RNA Me28S-Am2589:AAQB01006145.1/99907-100016
+design_name:RF00534:SgrS RNA:AL627265.1/129989-130226
+design_name:RF00540:Small nucleolar RNA psi18S-1854:AC012160.7/77294-77140
+design_name:RF00541:Small nucleolar RNA psi28S-2876:U35631.2/189-333
+design_name:RF00542:Small nucleolar RNA psi28S-1192:AC012160.7/76008-75871
+design_name:RF00543:Small nucleolar RNA psi18S-1377:AC009733.5/161685-161548
+design_name:RF00544:Small nucleolar RNA psi28S-3327:AJ629276.1/1-140
+design_name:RF00545:Small nucleolar RNA psi18S-841/snoR66:AJ544010.1/1-140
+design_name:RF00546:Small nucleolar RNA psi28S-3316:AJ629213.1/2-130
+design_name:RF00548:U11 spliceosomal RNA:AALT01584327.1/366-499
+design_name:RF00550:Hepatitis E virus cis-reactive element:AB097811.1/5093-5243
+design_name:RF00552:rncO:CP000720.1/1337539-1337720
+design_name:RF00553:Small Cajal body specific RNA 1:AL671190.10/55894-55730
+design_name:RF00554:Small nucleolar RNA SNORA48:AJ609447.1/1-134
+design_name:RF00557:Ribosomal protein L10 leader:AL766850.1/111629-111496
+design_name:RF00558:Ribosomal protein L20 leader:AL766850.1/192353-192228
+design_name:RF00560:Small nucleolar RNA SNORA17:AL929577.9/115568-115437
+design_name:RF00561:Small nucleolar RNA SNORA40:AJ609445.1/1-126
+design_name:RF00562:Small nucleolar RNA SNORA49:AJ609476.1/1-135
+design_name:RF00564:Small Cajal body specific RNA 11:AJ609487.1/1-136
+design_name:RF00565:Small Cajal body specific RNA 3:AL590723.13/6270-6128
+design_name:RF00566:Small nucleolar RNA SNORA35:BX005219.12/41617-41744
+design_name:RF00567:Small nucleolar RNA SNORD17:AL808123.9/5649-5412
+design_name:RF00568:Small nucleolar RNA SNORA26:AC092814.2/136717-136838
+design_name:RF00573:Small nucleolar RNA SNORD67:AC115088.6/123021-122911
+design_name:RF00578:Small nucleolar RNA SNORD89:AC119809.10/32611-32502
+design_name:RF00579:Small nucleolar RNA SNORD90:AC007066.4/164516-164622
+design_name:RF00582:Small Cajal body specific RNA 14:AC055855.9/110736-110601
+design_name:RF00586:Small nucleolar RNA SNORA12:AC125101.3/38731-38592
+design_name:RF00598:Small nucleolar RNA SNORA76:AL663053.12/63895-64027
+design_name:RF00599:Small nucleolar RNA SNORA77:AC091002.54/90660-90785
+design_name:RF00600:Small nucleolar RNA SNORA79:AC010582.6/81476-81337
+design_name:RF00601:Small Cajal body specific RNA 20:AY152828.1/39544-39414
+design_name:RF00602:Small Cajal body specific RNA 21:AC009228.4/59361-59234
+design_name:RF00603:Small nucleolar RNA SNORD23:AK024486.1/3319-3428
+design_name:RF00613:Small nucleolar RNA SNORD94:AC122200.4/154212-154076
+design_name:RF00614:Small nucleolar RNA SNORA11:AC113292.6/172404-172530
+design_name:RF00616:Listeria LhrC:AL596164.1/23950-24060
+design_name:RF00618:U4atac minor spliceosomal RNA:AAPP01019634.1/122532-122382
+design_name:RF00619:U6atac minor spliceosomal RNA:CAAA01028316.1/26512-26387
+design_name:RF00620:Hepatitis C alternative reading frame stem-loop:AF512996.1/25-177
+design_name:RF00621:Beta-globin co-transcriptional cleavage ribozyme:AF205413.1/1614-1793
+design_name:RF00623:Pseudomonas sRNA P1:CP000075.1/5778074-5778253
+design_name:RF00625:Pseudomonas sRNA P11:CP000075.1/2450746-2450611
+design_name:RF00627:Pseudomonas sRNA P15:CP000058.1/2702335-2702218
+design_name:RF00628:RgsA sRNA:CP000075.1/1860063-1859868
+design_name:RF00634:S-adenosyl methionine (SAM) riboswitch,:AAAP01003574.1/1814-1929
+design_name:RF00635:Highly accelerated region 1A/1B:DQ860410.1/178-61
+design_name:RF00638:microRNA MIR159:AP001800.2/28917-28720
+design_name:RF00640:microRNA MIR167_1:AACV01002433.1/39552-39424
+design_name:RF00645:microRNA MIR169_2:AARH01007968.1/101578-101471
+design_name:RF00647:microRNA MIR164:AACV01011958.1/3675-3793
+design_name:RF00648:microRNA MIR396:AASG02007435.1/277-442
+design_name:RF00660:microRNA mir-214:AADB02000995.1/244869-244760
+design_name:RF00661:microRNA mir-31:AAPP01016551.1/245474-245363
+design_name:RF00677:microRNA MIR168:AASG02009178.1/8089-7934
+design_name:RF00685:microRNA mir-36:AC084525.1/3063-3169
+design_name:RF00688:microRNA MIR394:AASG02000377.1/56114-56246
+design_name:RF00689:microRNA MIR390:AM484368.2/7952-7807
+design_name:RF00690:microRNA MIR408:AARH01001232.1/22607-22493
+design_name:RF00692:microRNA MIR171_2:AARH01006308.1/48604-48716
+design_name:RF00704:microRNA MIR397:AP004126.4/29756-29641
+design_name:RF00721:microRNA MIR475:URS000078F27B_3694/5-132
+design_name:RF00723:mir-448 microRNA precursor family:URS0000653AC8_10090/1-112
+design_name:RF00768:microRNA MIR405:AF128396.1/25475-25594
+design_name:RF00782:microRNA MIR480:AARH01038611.1/438-287
+design_name:RF00790:mir-358 microRNA precursor family:URS00001D2887_6239/3-110
+design_name:RF00799:mir-354 microRNA precursor family:URS0000222434_6239/1-109
+design_name:RF00804:microRNA mir-240:AAGD02000008.1/9523-9408
+design_name:RF00833:microRNA mir-70:AAGD02012111.1/237549-237430
+design_name:RF00846:microRNA mir-64:AAGD02000398.1/736-840
+design_name:RF00855:microRNA mir-254:Z66567.1/13696-13591
+design_name:RF00865:microRNA MIR169_5:AAAA02026104.1/123-1
+design_name:RF00882:microRNA MIR811:AC090873.4/23607-23796
+design_name:RF00883:microRNA MIR820:AAAA02028768.1/22398-22218
+design_name:RF00886:microRNA MIR807:AACV01017840.1/11427-11253
+design_name:RF00893:microRNA MIR854:AB046429.1/6389-6609
+design_name:RF00906:microRNA MIR1122:CT009587.1/113990-114124
+design_name:RF00908:microRNA MIR529:AAAA02013151.1/14888-14754
+design_name:RF00920:microRNA MIR444:AK063114.1/148-276
+design_name:RF00925:microRNA MIR1027:ABEU01006583.1/57263-57122
+design_name:RF00926:microRNA MIR1151:URS0000D53B9C_3055/1-110
+design_name:RF00954:microRNA MIR1446:AARH01006471.1/315430-315326
+design_name:RF00958:microRNA mir-498:AANU01181661.1/3192-3315
+design_name:RF00975:microRNA MIR845_2:AM480503.2/2487-2357
+design_name:RF00989:microRNA mir-492:AADB02015429.1/35076-35191
+design_name:RF01005:microRNA MIR530:AARH01010693.1/61395-61566
+design_name:RF01026:microRNA MIR828:URS00002BAE2F_3702/42-150
+design_name:RF01027:microRNA mir-765:URS000068E793_9606/1-114
+design_name:RF01033:microRNA mir-767:AANU01106645.1/4647-4756
+design_name:RF01043:microRNA MIR1023:ABEU01008017.1/44527-44387
+design_name:RF01053:Deinococcus radiodurans Y RNA:AE000513.1/1272031-1271906
+design_name:RF01055:Moco (molybdenum cofactor) riboswitch:CP000141.1/711593-711712
+design_name:RF01056:Magnesium Sensor:U07843.1/1597-1709
+design_name:RF01069:purD RNA motif:CP000538.1/1181299-1181426
+design_name:RF01084:Pseudoknot of tRNA-like structure:AF325738.1/2039-2167
+design_name:RF01085:Pseudoknot of tRNA-like structure:K01778.1/151-266
+design_name:RF01087:Pseudoknot of the regulatory region of the repZ gene:AB021078.1/294-442
+design_name:RF01089:Pseudoknot of the regulatory region of the repBA gene:U27345.1/557-680
+design_name:RF01094:Polymerase ribosomal frameshift site:X52374.1/1045-1162
+design_name:RF01212:Small nucleolar RNA sn2524:CAAC02000445.1/763027-763135
+design_name:RF01213:Small nucleolar RNA snoR103:AJ505678.1/1-106
+design_name:RF01214:Small nucleolar RNA snR51:AF064263.1/1-107
+design_name:RF01215:Small nucleolar RNA snoR97:AJ505674.1/1-108
+design_name:RF01216:Small nucleolar RNA snR87:Z28007.1/2587-2479
+design_name:RF01218:Small nucleolar RNA snR41:U26016.1/1-110
+design_name:RF01219:Small nucleolar RNA snoR100:AJ505677.1/1-117
+design_name:RF01220:Small nucleolar RNA snoR104:AJ505679.1/1-118
+design_name:RF01221:Small nucleolar RNA U6-47:AAGD02011855.1/9652-9519
+design_name:RF01222:Small nucleolar RNA sn2417:AY948656.1/6-128
+design_name:RF01223:Small nucleolar RNA snR13:U16692.1/354-477
+design_name:RF01224:Small nucleolar RNA snoR80:AJ505652.1/1-127
+design_name:RF01225:Small nucleolar RNA ACA64:BC028232.1/151-277
+design_name:RF01226:Small nucleolar RNA Z5:AJ010684.1/1-113
+design_name:RF01227:Small nucleolar RNA snoR83:AJ505656.1/1-130
+design_name:RF01228:Small nucleolar RNA snoR111:AJ505682.1/1-130
+design_name:RF01229:Small nucleolar RNA SNORA84:AAFC03094193.1/47121-46989
+design_name:RF01230:Small nucleolar RNA snoR77:AJ505648.1/1-133
+design_name:RF01231:Small nucleolar RNA snoR74:AJ505651.1/1-133
+design_name:RF01233:Small nucleolar RNA U109:AM055742.1/1-134
+design_name:RF01234:Small nucleolar RNA SNORA47:AC008581.11/95393-95256
+design_name:RF01235:Small nucleolar RNA snR68:Z38059.1/58140-58275
+design_name:RF01236:Small nucleolar RNA U19:AJ505662.1/1-144
+design_name:RF01237:Small nucleolar RNA snR161:Z35905.1/390-230
+design_name:RF01238:Small nucleolar RNA snR70:U51033.2/34867-34704
+design_name:RF01239:Small nucleolar RNA snR49:Z71666.1/727-896
+design_name:RF01240:Small nucleolar RNA snR85:X80835.1/7645-7470
+design_name:RF01241:Small nucleolar RNA SNORA81:AC112907.7/62863-62686
+design_name:RF01242:Small nucleolar RNA snR36:Z75093.1/322-141
+design_name:RF01243:Small nucleolar RNA snR33:L22435.1/168-350
+design_name:RF01244:Small nucleolar RNA snR4:U57010.1/1-186
+design_name:RF01245:Small nucleolar RNA snR9:M20765.1/237-423
+design_name:RF01246:Small nucleolar RNA snR81:Z74794.1/3074-3261
+design_name:RF01247:Small nucleolar RNA snR32:U10398.3/28338-28525
+design_name:RF01248:Small nucleolar RNA snR8:M20764.1/402-590
+design_name:RF01249:Small nucleolar RNA snR190:Z49425.1/3177-2988
+design_name:RF01250:Small nucleolar RNA snR189:X62452.1/873-682
+design_name:RF01251:Small nucleolar RNA snR3:Z49629.1/469-662
+design_name:RF01252:Small nucleolar RNA snR5:AAFW02000032.1/134926-135122
+design_name:RF01253:Small nucleolar RNA snR46:Z72815.1/1165-1361
+design_name:RF01254:Small nucleolar RNA snR34:U19729.2/1781-1983
+design_name:RF01255:Small nucleolar RNA snR35:Z75131.1/340-137
+design_name:RF01256:Small nucleolar RNA snR43:X59720.2/107708-107500
+design_name:RF01257:Small nucleolar RNA snR31:Z75186.1/359-138
+design_name:RF01262:Small nucleolar RNA snR44:U56645.1/1-211
+design_name:RF01266:Small nucleolar RNA snR45:U56646.1/2-172
+design_name:RF01269:Small nucleolar RNA snR80:U18795.1/49843-49668
+design_name:RF01289:Small nucleolar RNA snoR17:AC011765.6/41033-40924
+design_name:RF01290:Small nucleolar RNA SNORD10:AF084536.1/1-141
+design_name:RF01291:Small nucleolar RNA SNORD97:AY349597.1/1-142
+design_name:RF01292:Small nucleolar RNA snoR2/U65:AC007233.7/16823-16971
+design_name:RF01293:Small nucleolar RNA ACA59:AL031296.1/85969-86120
+design_name:RF01385:isrA Hfq binding RNA:ABEI01000010.1/57820-57936
+design_name:RF01387:isrC Hfq binding RNA:U31849.1/2304-2187
+design_name:RF01396:isrN Hfq binding RNA:Z83734.1/1448-1306
+design_name:RF01397:isrO Hfq binding RNA:AE014613.1/3046397-3046597
+design_name:RF01398:isrP Hfq binding RNA:AL627279.1/174694-174547
+design_name:RF01399:isrQ Hfq binding RNA:ABEJ01000001.1/95266-95427
+design_name:RF01400:istR Hfq binding RNA:AP009048.1/3787168-3787297
+design_name:RF01405:STnc490 Hfq binding RNA:AE014613.1/1746000-1745877
+design_name:RF01407:STnc560 Hfq binding RNA:AE005174.2/1939628-1939841
+design_name:RF01408:sraL Hfq binding RNA:AE014075.1/4830625-4830485
+design_name:RF01411:BsrF:AAER01000035.1/744583-744473
+design_name:RF01416:NrrF RNA:AL157959.1/333678-333520
+design_name:RF01418:HIV pol-1 stem loop:AY169968.1/2046-2158
+design_name:RF01419:Antisense RNA which regulates isiA expression:AM423539.2/7314-7144
+design_name:RF01426:small nucleolar RNA snoR126:AB018108.1/5630-5526
+design_name:RF01427:small nucleolar RNA snoR127:AC069556.4/36784-36921
+design_name:RF01429:small nucleolar RNA snoR130:AC013483.7/59930-60049
+design_name:RF01430:small nucleolar RNA snoR134:DQ108711.1/84-227
+design_name:RF01431:small nucleolar RNA snoR135:AK229744.1/602-742
+design_name:RF01432:small nucleolar RNA snoR143:AC079041.4/65653-65823
+design_name:RF01433:small nucleolar RNA snoR137:AP000601.1/8208-8353
+design_name:RF01434:small nucleolar RNA snR3:AJ632000.1/1-167
+design_name:RF01435:small nucleolar RNA snR5:AJ632001.1/1-143
+design_name:RF01436:small nucleolar RNA snR33:AJ632003.1/1-145
+design_name:RF01437:small nucleolar RNA snR10:CU329672.1/992602-992436
+design_name:RF01438:small nucleolar RNA snR35:AJ632004.1/1-172
+design_name:RF01439:small nucleolar RNA snR36:AJ632005.1/1-164
+design_name:RF01440:small nucleolar RNA snR42:AJ632006.1/1-208
+design_name:RF01441:small nulceolar RNA snR46:AJ632007.1/1-168
+design_name:RF01442:small nucleolar RNA snR90:AJ632008.1/1-158
+design_name:RF01443:small nucleolar RNA snR91:CU329670.1/3316609-3316466
+design_name:RF01444:small nucleolar RNA snR92:AJ632010.1/1-144
+design_name:RF01445:small nucleolar RNA snR94:AJ632012.1/1-210
+design_name:RF01446:small nucleolar RNA snR95:AB004535.1/423-644
+design_name:RF01447:small nucleolar RNA snR98:AJ632016.1/1-212
+design_name:RF01448:small nucleolar RNA snR93:CU329671.1/3172781-3172923
+design_name:RF01449:small nucleolar RNA snR100:CU329671.1/3393616-3393802
+design_name:RF01450:small nucleolar RNA snR96:AJ632014.1/1-211
+design_name:RF01451:small nucleolar RNA snR97:AJ632015.1/1-148
+design_name:RF01452:small nucleolar RNA snR99:AATM01000002.1/50041-50225
+design_name:RF01453:3'TE-DR1 translation enhancer element:AB034916.1/3596-3733
+design_name:RF01454:5'UTR enhancer element:L07884.1/1-120
+design_name:RF01456:Vibrio regulatory RNA of OmpA:AAWD01000052.1/15594-15733
+design_name:RF01457:Listeria sRNA rli22:AL591973.1/31997-32107
+design_name:RF01459:Listeria sRNA rliE:AL596169.1/38059-38283
+design_name:RF01461:Listeria sRNA rli22:AM263198.1/227004-227161
+design_name:RF01462:Listeria sRNA rli26:AM263198.1/343359-343175
+design_name:RF01464:Listeria sRNA rliA:AADR01000009.1/6446-6222
+design_name:RF01465:Listeria sRNA rli31:AL596165.1/140809-140924
+design_name:RF01468:Listeria sRNA rli32:AL596165.1/143786-143638
+design_name:RF01470:Listeria sRNA rli38:AL591977.1/262768-262917
+design_name:RF01474:Listeia sRNA rli42:AM263198.1/1378553-1378383
+design_name:RF01476:Listeria sRNA rliF:AL591982.1/6292-6073
+design_name:RF01479:Listeria sRNA rli48:AL596172.1/225721-225572
+design_name:RF01481:Listeria sRNA rli53:AL596166.1/244646-244818
+design_name:RF01482:AdoCbl riboswitch:AM263198.1/1141155-1141305
+design_name:RF01484:Listeria sRNA rli59:AADQ01000042.1/19077-18897
+design_name:RF01485:Listeria sRNA rli61:AL596171.1/217918-217813
+design_name:RF01486:Listeria sRNA rli62:AARP04000034.1/18168-18035
+design_name:RF01487:Listeria sRNA rliI:AADR01000011.1/41253-41491
+design_name:RF01488:Listeria sRNA rli49:AL591983.1/265202-265364
+design_name:RF01490:Listeria snRNA rli51:AY168080.1/216-96
+design_name:RF01492:Listeria sRNA rli28:AL591984.1/64286-64098
+design_name:RF01495:Human acetyl-coA cholesterol acyltransferase mRNA:AK300551.1/12-158
+design_name:RF01496:A. fumigatus sRNA Afu_182:AP007157.1/2099511-2099708
+design_name:RF01497:ALIL pseudoknot:AE014075.1/332349-332233
+design_name:RF01500:A. fumigatus snoRNA Afu_198:AACD01000006.1/37257-37396
+design_name:RF01503:A. fumigatus sRNA Afu_203:ABDB01000029.1/278235-278125
+design_name:RF01504:A. fumigatus sRNA Afu_254:ABBC01002008.1/1443-1591
+design_name:RF01508:Barley yellow dwarf virus 5'UTR:EF521838.1/1-149
+design_name:RF01511:A. fumigatus snoRNA Afu_304:AASO01002524.1/351-456
+design_name:RF01515:A. fumigatus snoRNA Afu_514:ABVF01000102.1/235831-235936
+design_name:RF01517:iscR stability element:AE014075.1/2929823-2929714
+design_name:RF01527:Caulobacter sRNA CrfA:CP001340.1/3781500-3781365
+design_name:RF01528:caulobacter sRNA CC3513:CP001340.1/3785285-3785457
+design_name:RF01529:Cauldobacter sRNA CC3552:ABRU01000059.1/74859-74754
+design_name:RF01530:Caulobacter sRNA CC3664:AE005673.1/3920055-3920190
+design_name:RF01565:Dictyostelium snoRNA DdR15:AJ699376.1/1-113
+design_name:RF01568:Dictyostelium snoRNA DdR18:AAFI02000024.1/236827-236973
+design_name:RF01572:Dictyostelium snoRNA DdR4:AJ703793.1/1-106
+design_name:RF01578:Plasmodium RNA of unkown function RUF1:ABHA01002293.1/730-967
+design_name:RF01579:Plasmodium RNA of unknown function RUF2:AABL01001458.1/5179-5331
+design_name:RF01580:Plasmodium RNA of unkown function RU6-F3:ABGT01001025.1/1494-1680
+design_name:RF01581:Plasmodium RNA of unknown function RUF6-5:ABGT01004244.1/715-869
+design_name:RF01584:small nucleolar RNA snoR03:ABGY01000889.1/1819-1978
+design_name:RF01588:small nucleolar RNA snoR13:ACBS01000723.1/11593-11697
+design_name:RF01589:small nucleolar RNA snoR11:ABGU01000965.1/1561-1359
+design_name:RF01590:small nucleolar RNA snoR14:CAAI01004629.1/216-91
+design_name:RF01591:small nucleolar RNA snoR15:AM910996.2/1733707-1733590
+design_name:RF01593:small nucleolar RNA snoR16:AM910996.2/156798-156669
+design_name:RF01601:small nucleolar RNA snoR26:ACBS01000745.1/1206-1058
+design_name:RF01602:small nucleolar RNA snoR27:CAAJ01000274.1/402-548
+design_name:RF01606:small nucleolar RNA snoR31:ABGV01002952.1/1394-1538
+design_name:RF01607:C. elegans snoRNA ceN100:AY948644.1/1-132
+design_name:RF01608:Caenorhabditis snoRNA ceN80:AY948646.1/1-142
+design_name:RF01609:Caenorhabditis snoRNA ceN103:AY948605.1/1-109
+design_name:RF01610:Caenorhabditis snoRNA ceN104:AY948647.1/1-169
+design_name:RF01612:Nematode snoRNA ceN105:AY948648.1/1-141
+design_name:RF01614:Caenorhabditis snoRNA ceN110:AY948712.1/1-127
+design_name:RF01617:Caenorhabditis snoRNA ceN113:AY948654.1/1-131
+design_name:RF01619:C. elegans sRNA ceN115:Z80218.1/3076-3234
+design_name:RF01620:Nematode snoRNA ceN125:AY948601.1/1-137
+design_name:RF01621:Caenorhabditis snoRNA ceN126:DQ789472.1/2-132
+design_name:RF01627:Nematode snoRNA ceN36-1:DQ789475.1/2-133
+design_name:RF01628:Caenorhabditis snoRNA ceN38:AY948675.1/1-137
+design_name:RF01629:Nematode snoRNA ceN39:AY948676.1/1-131
+design_name:RF01630:Nematode snoRNA ceN40:AY948677.1/1-122
+design_name:RF01631:Caenorhabditis snoRNA ceN41:AY948678.1/1-137
+design_name:RF01632:Caenorhabditis snoRNA ceN42:AY948679.1/1-131
+design_name:RF01633:Caenorhabditis snoRNA ceN43:AY948680.1/1-129
+design_name:RF01635:Caenorhabditis snoRNA ceN45:AY948682.1/1-127
+design_name:RF01636:Caenorhabditis snoRNA ceN46:AY948683.1/1-125
+design_name:RF01637:Nematode snoRNA ceN47:AY948630.1/1-155
+design_name:RF01638:Caenorhabditis snoRNA ceN48:AY948684.1/1-125
+design_name:RF01639:Caenorhabditis snoRNA ceN49:DQ789461.1/2-136
+design_name:RF01640:Caenorhabditis snoRNA ceN51:AY948687.1/1-139
+design_name:RF01643:Caenorhabditis sRNA ceN56:AY948634.1/1-125
+design_name:RF01644:Caenorhabditis snoRNA ceN59:AY948692.1/1-136
+design_name:RF01645:Nematode snoRNA ceN58:AY948691.1/1-139
+design_name:RF01649:Caenorhabditis snoRNA ceN67:AY948698.1/1-134
+design_name:RF01650:Caenorhabditis snoRNA ceN48:AY948699.1/1-121
+design_name:RF01651:Caenorhabditis snoRNA ceN69:AY948700.1/1-107
+design_name:RF01653:Caenorhabditis snoRNA ceN80:AY948703.1/1-131
+design_name:RF01654:Caenorhabditis snoRNA ceN82:AY948705.1/1-134
+design_name:RF01655:Caenorhabditis snoRNA ceN84:DQ789480.1/2-131
+design_name:RF01656:Nematode sRNA ceN72-3_ceN74-2:AY948638.1/1-132
+design_name:RF01658:Caenorhabditis snoRNA ceN81:DQ789486.1/2-127
+design_name:RF01659:Caenorhabditis snoRNA ceN86:DQ789465.1/2-125
+design_name:RF01660:Nematode snoRNA ceN88:AY948710.1/1-140
+design_name:RF01661:Caenorhabditis snoRNA ceN92:DQ789487.1/2-127
+design_name:RF01663:Caenorhabditis sRNA ceN93:AY948715.1/1-131
+design_name:RF01664:Caenorhabditis snoRNA ceN101:AM286188.1/1-127
+design_name:RF01669:Pseudomonas sRNA P14:AE004091.2/3206733-3206877
+design_name:RF01671:Pseudomonas sRNA P18:CT573326.1/1362999-1363133
+design_name:RF01672:Psudomonas sRNA P2:AE004091.2/356478-356615
+design_name:RF01673:PhrS:CP002496.1/1822393-1822605
+design_name:RF01674:Pseudomonas sRNA P27:AE004091.2/4781786-4781978
+design_name:RF01681:Pseudomonas sRNA P4:CP000744.1/4962754-4962967
+design_name:RF01685:6S-Flavo RNA:AACY020447591.1/2625-2518
+design_name:RF01692:Bacteroidete tryptophan peptide leader RNA:BABB01000545.1/1746-1604
+design_name:RF01693:Bacteroidales-1 6S-Bacteroidales RNA suggested:BABD01027605.1/926-751
+design_name:RF01699:Clostridiales-1 RNA:BABB01000778.1/1764-1911
+design_name:RF01700:Collinsella-1 RNA:BAAV01020360.1/623-820
+design_name:RF01702:Cyano-2 RNA:AACY020962023.1/228-436
+design_name:RF01703:Dictyoglomi-1 RNA:CP001146.1/1770511-1770277
+design_name:RF01712:Methylobacterium-1 RNA:ABEF01010507.1/763-658
+design_name:RF01715:Pedo-repair RNA:ABCM01000001.1/430655-430865
+design_name:RF01718:Polynucleobacter-1 RNA:AACY020164468.1/385-250
+design_name:RF01719:Pseudomon-1/ErsA RNA:AAKW01000050.1/2192-2078
+design_name:RF01721:Pseudomon-groES RNA:CP000075.1/4857654-4857544
+design_name:RF01728:STAXI RNA:URS0000D67070_465517/1-124
+design_name:RF01729:Termite-flg RNA:ABDH01006538.1/207-311
+design_name:RF01731:TwoAYGGAY RNA:BAAZ01005038.1/287-455
+design_name:RF01732:MarS sRNA:BA000034.2/1038560-1038410
+design_name:RF01735:epsC RNA:URS0000D65F72_439292/1-117
+design_name:RF01736:flg-Rhizobiales RNA:CP000319.1/1569053-1568914
+design_name:RF01742:lactis-plasmid RNA:AF378372.1/1907-1800
+design_name:RF01743:leu/phe leader RNA from Lactococcus:AE005176.1/1239635-1239796
+design_name:RF01745:manA RNA:URS0000D6BB58_12908/1-173
+design_name:RF01746:mraW RNA:BABE01001411.1/1117-1012
+design_name:RF01752:psaA RNA:AACY020449412.1/941-1133
+design_name:RF01754:radC RNA:URS0000D665AC_441155/1-163
+design_name:RF01755:rmf RNA:CP000438.1/2155099-2154971
+design_name:RF01757:sbcD RNA:CP000618.1/92362-92499
+design_name:RF01758:sucA-II RNA:AE016853.1/2419253-2419470
+design_name:RF01769:Enterobacteria greA leader:CP000653.1/3921956-3921833
+design_name:RF01771:Enterobacteria rnk leader:ABEH02000009.1/149631-149523
+design_name:RF01772:Pseudomonas rnk leader:CT573326.1/5681142-5681037
+design_name:RF01773:Pseudomonas rpsL leader:AM181176.4/6053534-6053399
+design_name:RF01774:Rickettsia rpsL leader:AE006914.1/171220-171350
+design_name:RF01775:RNA S.aureus Orsay G:AE015929.1/1922262-1922118
+design_name:RF01778:Embryonic ventral forebrain-2 long ncRNA:ABBA01045755.1/62535-62676
+design_name:RF01780:AS1890 sRNA:CP000717.1/2147764-2147872
+design_name:RF01788:drz-agam-2-2 ribozyme:AAAB01008846.1/3701932-3701742
+design_name:RF01789:Epstein-Barr virus EBER1:EF187849.1/115-280
+design_name:RF01794:sok antitoxin (CssrC):AP009241.1/56560-56717
+design_name:RF01796:Fumarate/nitrate reductase regulator sRNA:ABHL02000002.1/1575228-1575345
+design_name:RF01802:Herpesvirus saimiri U RNA1/RNA2:M28071.1/1837-1695
+design_name:RF01807:GIR1 branching ribozyme:AJ938153.1/1498-1693
+design_name:RF01808:MicX Vibrio cholerae sRNA:CP000626.1/331571-331760
+design_name:RF01812:Pxr regulatory sRNA:CP000113.1/1258215-1258322
+design_name:RF01815:rpsB sRNA:AACY023816545.1/62-195
+design_name:RF01816:RNA Staph. aureus A:AASB02000218.1/20944-21082
+design_name:RF01819:RNA Staph. aureus D:CP000736.1/736444-736268
+design_name:RF01820:RNA Staph. aureus E (RoxS):ABQL01000005.1/214304-214418
+design_name:RF01821:RNA Staph. aureus H:AASB02000221.1/5610-5733
+design_name:RF01828:Small pathogenicity island RNA D:ACHD01000263.1/80388-80529
+design_name:RF01830:Salmonella enterica Typhi npcRNA 44:AE014613.1/2690822-2690714
+design_name:RF01847:Plant small nucleolar RNA U3:X52629.1/325-543
+design_name:RF01858:RNA Staph. aureus F:CABA01000085.1/50894-51012
+design_name:RF01859:Phenylalanine leader peptide:ABVX01000063.1/6342-6467
+design_name:RF01864:small nucleolar RNA snoR21:AAKM01000009.1/910633-910779
+design_name:RF01865:Manganese dependent ribozyme in Vg1 mRNA:BC090232.1/1587-1727
+design_name:RF01866:C. elegans snoRNA ceN33:AY948672.1/1-119
+design_name:RF01867:caulobacter sRNA CC2171:ABRU01000031.1/61545-61745
+design_name:RF01873:Polled intersex syndrome regulated transcript 1:AC119740.6/80294-80400
+design_name:RF01874:Myocardial infarction associated transcript exon 1:AB266844.1/2-136
+design_name:RF01875:Myocardial infarction associated transcript exon 5 conserved region 1:AAIY01390116.1/3685-3833
+design_name:RF01879:Non-coding RNA LOC285194:AANN01289908.1/1868-2032
+design_name:RF01881:X-chromosome inactivation gene exon 4:ABBA01059641.1/2139-2264
+design_name:RF01882:Taurine upregulated gene 1 conserved region 1:AAPY01201424.1/594-738
+design_name:RF01884:Non-coding RNA BC040587:AANN01182270.1/2379-2530
+design_name:RF01887:Embryonic ventral forebrain RNA 1 conserved region 1:AANN01792448.1/1306-1126
+design_name:RF01888:Embryonic ventral forebrain RNA 1 conserved region 2:AAHY01051190.1/2155-2361
+design_name:RF01889:LincRNA-p21 conserved region 1:AC167363.3/78060-78233
+design_name:RF01891:Taurine upregulated gene 1 conserved region 3:AADD01174110.1/3063-3299
+design_name:RF01892:Taurine upregulated gene 1 conserved region 4:AADD01174110.1/3623-3803
+design_name:RF01897:microRNA mir-188:AY865946.1/456-562
+design_name:RF01909:CDKN2B antisense RNA 1 intronic convserved region:ABRN01430132.1/22538-22687
+design_name:RF01911:microRNA MIR2118:AK107452.1/44-233
+design_name:RF01925:microRNA MIR1428:URS0000D53E06_4530/17-126
+design_name:RF01927:microRNA MIR1222:ABEU01007920.1/13167-13034
+design_name:RF01928:Maternal intergenic circadian oscillating RNA 1:EF648170.1/1551-1755
+design_name:RF01931:Bithoraxoid conserved region 3:AC095017.1/68822-68686
+design_name:RF01932:Bithoraxoid conserved region 4:AC095017.1/68615-68509
+design_name:RF01936:microRNA mir-63:ABKE01004162.1/545-660
+design_name:RF01947:KCNQ1 overlapping transcript 1 conserved region 2:AC124055.6/24797-24602
+design_name:RF01948:KCNQ1 overlapping transcript 1 conserved region 3:AC021424.6/153260-153145
+design_name:RF01950:KCNQ1 overlapping transcript 1 conserved region 5:AJ006345.1/252890-253115
+design_name:RF01951:SOX2 overlapping transcript exon 1:AANN01366326.1/1470-1700
+design_name:RF01954:SOX2 overlapping transcript exon 4:AC117415.7/93637-93529
+design_name:RF01955:Nuclear enriched abundant transcript 1 conserved region 1:EF177379.1/476-595
+design_name:RF01956:Nuclear enriched abundant transcript 1 conserved region 2:EF177379.1/841-945
+design_name:RF01957:Nuclear enriched abundant transcript 1 conserved region 3:EF177379.1/1163-1321
+design_name:RF01963:Rhabdomyosarcoma 2 associated transcript conserved region 2:AC007351.40/28304-28169
+design_name:RF01964:Rhabdomyosarcoma 2 associated transcript conserved region 3:AF429305.1/204-312
+design_name:RF01965:Rhabdomyosarcoma 2 associated transcript conserved region 4:AC007351.40/26869-26763
+design_name:RF01966:Rhabdomyosarcoma 2 associated transcript conserved region 5:AC007351.40/24834-24709
+design_name:RF01967:Rhabdomyosarcoma 2 associated transcript conserved region 6:AF429305.1/738-940
+design_name:RF01969:Rhabdomyosarcoma 2 associated transcript conserved region 8:AC018659.35/136688-136547
+design_name:RF01970:Rhabdomyosarcoma 2 associated transcript conserved region 9:AC018659.35/136389-136197
+design_name:RF01971:Rhabdomyosarcoma 2 associated transcript conserved region 10:AF429306.1/937-1090
+design_name:RF01974:H19 conserved region 3:AF087017.1/8457-8342
+design_name:RF01975:HOX antisense intergenic RNA myeloid 1 conserved region 1:AC004079.1/78519-78643
+design_name:RF01976:HOX antisense intergenic RNA myeloid 1 conserved region 2:AC004079.1/81295-81509
+design_name:RF01979:HOX antisense intergenic RNA myeloid 1 conserved region 5:AC004079.1/82362-82506
+design_name:RF01981:Prostate-specific transcript 1:ABRT010120442.1/19901-20032
+design_name:RF01983:Pregnancy induced noncoding RNA:AC132854.8/147957-147804
+design_name:RF01984:ZEB2 antisense RNA 1 conserved region 1:AC009951.10/111477-111604
+design_name:RF01992:Viral integration site 1:U10269.1/831-1031
+design_name:RF01999:Group II catalytic intron D1-D4-2:BAAZ01023689.1/241-126
+design_name:RF02001:Group II catalytic intron D1-D4-3:BABD01009491.1/198-368
+design_name:RF02003:Group II catalytic intron D1-D4-4:BABB01008120.1/763-624
+design_name:RF02004:Group II catalytic intron D1-D4-5:BAAU01012577.1/612-414
+design_name:RF02005:Group II catalytic intron D1-D4-6:BABE01000503.1/2186-1953
+design_name:RF02006:microRNA mir-1253:ABGA01182959.1/4315-4419
+design_name:RF02010:microRNA mir-3180:AC010488.7/42610-42497
+design_name:RF02012:Group II catalytic intron D1-D4-7:BABA01000146.1/2452-2598
+design_name:RF02014:microRNA mir-1178:ABGA01218732.1/20464-20574
+design_name:RF02030:tp2:AACY020346484.1/116-5
+design_name:RF02033:HNH endonuclease-associated RNA and ORF (HEARO) RNA:URS0000D6BF40_326442/1-212
+design_name:RF02034:IMES-1 RNA motif:URS0000D66A72_12908/1-210
+design_name:RF02035:IMES-2 RNA motif:URS00006C56F0_12908/1-139
+design_name:RF02036:IMES-3 RNA motif:AACY020666588.1/528-675
+design_name:RF02039:SPRY4-IT1 conserved region 2:AY538661.1/11440-11320
+design_name:RF02043:HOXA transcript at the distal tip, conserved region 4:AAPY01584655.1/2416-2581
+design_name:RF02045:CDKN2B antisense RNA 1 convserved region 3:AL354709.15/38344-38487
+design_name:RF02046:Sphinx_ conserved region 1:AC010838.12/46454-46565
+design_name:RF02047:Sphinx conserved region 2:AF433800.1/2284-2127
+design_name:RF02048:Salmonella enterica conserved region STnc30:AE006468.1/58792-58923
+design_name:RF02049:Salmonella enterica sRNA STnc460:AE006468.1/4758332-4758187
+design_name:RF02050:Salmonella enterica sRNA STnc470:AE006468.1/94548-94770
+design_name:RF02052:Enterobacterial sRNA STnc630:FM200053.1/4280093-4280258
+design_name:RF02053:Enterobacterial sRNA STnc430:AE006468.1/4442059-4441898
+design_name:RF02055:Enterobacterial sRNA STnc380:CP001120.1/3898746-3898639
+design_name:RF02058:Gammaproteobacterial sRNA STnc400:AF261825.2/44236-44359
+design_name:RF02060:Enterobacterial sRNA STnc410:CP001144.1/4101065-4101222
+design_name:RF02062:Salmonella enterica sRNA STnc361:AE006468.1/3780254-3780402
+design_name:RF02065:Enterobacterial sRNA STnc340:ABEH02000004.1/441959-442088
+design_name:RF02069:Enterobacterial sRNA STnc70:AM933173.1/660477-660625
+design_name:RF02070:Salmonella enterica sRNA STnc300:CP001120.1/3276332-3276174
+design_name:RF02072:Salmonella enterica sRNA STnc590:AE006468.1/3010807-3010966
+design_name:RF02073:Salmonella enterica sRNA STnc260:FM200053.1/2777436-2777610
+design_name:RF02076:Gammaproteobacterial sRNA STnc100:AE006468.1/975011-975224
+design_name:RF02078:Salmonella enterica sRNA STnc210:AE006468.1/2032404-2032580
+design_name:RF02079:Enterobacterial sRNA STnc180:AE006468.1/1807776-1807565
+design_name:RF02082:Enterobacterial sRNA STnc540:CAAV01001492.1/496-340
+design_name:RF02084:Enterobacteria sRNA STnc130:ABKX01000009.1/140038-140172
+design_name:RF02090:DAOA antisense RNA 1 conserved region 1:AAFC03117925.1/24558-24758
+design_name:RF02091:DAOA antisense RNA 1 conserved region 2:AL359751.12/12472-12675
+design_name:RF02093:mir-2968 microRNA precursor:ABQF01011073.1/6857-6962
+design_name:RF02101:Highly up-regulated in liver cancer conserved region:AL161437.13/445-684
+design_name:RF02102:Disrupted in schizophrenia 2 conserved region:AC202673.8/78875-79075
+design_name:RF02103:Deleted in lymphocytic leukemia 1 conserved region 1:AL137060.13/75754-75943
+design_name:RF02105:Deleted in lymphocytic leukemia 2 conserved region 1:AY455757.1/890-771
+design_name:RF02110:Deleted in lymphocytic leukemia 2 conserved region 6:AL137060.13/75302-75437
+design_name:RF02111:IS009:ACDM01000017.1/143-2
+design_name:RF02112:DLG2 antisense RNA 1 conserved region 1:AF525782.1/3822-4034
+design_name:RF02113:DLG2 antisense RNA 1 conserved region 2:AP001825.4/191918-192135
+design_name:RF02114:FAM13A antisense RNA 1 conserved region 1:AAFC03128838.1/5061-4947
+design_name:RF02115:FAM13A antisense RNA 1 conserved region 2:AC108065.3/60853-60960
+design_name:RF02116:FAS antisense RNA 1 conserved region:AY450925.1/2908-3077
+design_name:RF02118:FMR1 antisense RNA 1 conserved region 2:EU048202.1/635-509
+design_name:RF02121:FTX transcript, XIST regulator conserved region 3:AC004386.1/67536-67682
+design_name:RF02122:FTX transcript, XIST regulator conserved region 5:AC004386.1/79957-80174
+design_name:RF02123:FTX transcript, XIST regulator conserved region 4:AC004386.1/68303-68449
+design_name:RF02124:JPX transcript, XIST activator conserved region 1:AL353804.22/127735-127869
+design_name:RF02128:GNAS antisense RNA 1 conserved region 2:AAFC03013468.1/13876-13759
+design_name:RF02130:GNAS antisense RNA 1 conserved region 4:AJ251760.1/11274-11385
+design_name:RF02131:GNAS antisense RNA 1 conserved region 5:AJ251760.1/11527-11647
+design_name:RF02132:HOXB13 antisense RNA 1 conserved region 1:ABRR01223724.1/168-314
+design_name:RF02134:HTT antisense RNA 1 conserved region 1:Z68756.1/25278-25049
+design_name:RF02135:HTT antisense RNA 1 conserved region 2:Z68756.1/18770-18596
+design_name:RF02138:HOXA11 antisense RNA 1 conserved region 2:AF071164.1/4060-4246
+design_name:RF02140:HOXA11 antisense RNA 1 conserved region 4:AF071164.1/5119-5351
+design_name:RF02141:HOXA11 antisense RNA 1 conserved region 5:AF071164.1/6046-6248
+design_name:RF02142:HOXA11 antisense RNA 1 conserved region 6:AF071164.1/7043-7221
+design_name:RF02143:Hydatidiform mole associated and imprinted conserved region 1:AF241534.1/1504-1267
+design_name:RF02144:rsmX:CP000076.1/4774103-4773991
+design_name:RF02146:Maternally expressed 8 exon 2:AC226390.3/15172-15051
+design_name:RF02148:MEST intronic transcript 1, antisense RNA conserved region 1:AF482998.1/2816-2677
+design_name:RF02149:MEST intronic transcript 1, antisense RNA conserved region 2:AF482998.1/1995-1761
+design_name:RF02154:Non-protein coding RNA, upstream of F2R/PAR1 conserved region 1:AC025188.8/53778-53910
+design_name:RF02156:NPPA antisense RNA 1 conserved region 1:FJ706071.1/968-1140
+design_name:RF02157:NPPA antisense RNA 1 conserved region 2:FJ706079.1/38-186
+design_name:RF02158:NPPA antisense RNA 1 conserved region 3:FJ706078.1/185-292
+design_name:RF02159:Prostate androgen-regulated transcript 1 conserved region 1:AC091922.2/130372-130588
+design_name:RF02161:Prostate androgen-regulated transcript 1 conserved region 3:AK094518.1/519-649
+design_name:RF02164:Pvt1 oncogene conserved region 1:AY336081.1/1737-1906
+design_name:RF02165:Pvt1 oncogene conserved region 2:AC084123.9/59124-59288
+design_name:RF02167:Pvt1 oncogene conserved region 4:AAFC03094311.1/32598-32776
+design_name:RF02168:Pvt1 oncogene conserved region 5:AK129745.1/486-615
+design_name:RF02169:Pvt1 oncogene conserved region 6:AC007860.6/18009-18121
+design_name:RF02170:Pvt1 oncogene conserved region 7:AC007860.6/44367-44503
+design_name:RF02174:SMAD5 antisense RNA 1 conserved region 2:AF071109.1/347-475
+design_name:RF02175:SMAD5 antisense RNA 1 conserved region 3:AF071111.1/979-856
+design_name:RF02176:SMAD5 antisense RNA 1 conserved region 4:AF071111.1/809-643
+design_name:RF02177:Smith-Magenis syndrome chromosome region, candidate 2 conserved region 1:AC078903.11/76693-76537
+design_name:RF02178:Smith-Magenis syndrome chromosome region, candidate 2 conserved region 2:AC020558.4/182113-182273
+design_name:RF02179:ST7 antisense RNA 1 conserved region 1:AF400039.1/1637-1522
+design_name:RF02180:ST7 antisense RNA 1 conserved region 2:AF400039.1/1121-1011
+design_name:RF02184:ST7 overlapping transcript 3 conserved region 2:AC130185.3/56080-56217
+design_name:RF02185:ST7 overlapping transcript 3 conserved region 3:AF400044.1/462-579
+design_name:RF02187:ST7 overlapping transcript 4 conserved region 1:BC043268.2/231-430
+design_name:RF02188:ST7 overlapping transcript 4 conserved region 2:AC142297.1/5454-5283
+design_name:RF02190:ST7 overlapping transcript 4 conserved region 4:BC043268.2/1352-1564
+design_name:RF02191:T-cell leukemia/lymphoma 6 conserved region 1:AB035338.1/1052-1164
+design_name:RF02192:T-cell leukemia/lymphoma 6 conserved region 2:AB035346.2/4084-4202
+design_name:RF02193:T-cell leukemia/lymphoma 6 conserved region 3:AB035343.1/1888-2024
+design_name:RF02194:Bacterial antisense RNA HPnc0260:CP000891.1/2753645-2753511
+design_name:RF02195:TP53 target 1 conserved region 1:BC061927.1/364-213
+design_name:RF02196:TP53 target 1 conserved region 2:BC068535.1/222-41
+design_name:RF02197:TP73 antisense RNA 1 conserved region:AL136528.11/32288-32128
+design_name:RF02198:TTC28 antisense RNA 1 conserved region 1:AL031591.19/148093-148254
+design_name:RF02199:TTC28 antisense RNA 1 conserved region 2:BC028176.2/5-161
+design_name:RF02200:TTC28 antisense RNA 1 conserved region 3:AL033538.1/33518-33698
+design_name:RF02201:TTC28 antisense RNA 1 conserved region 4:AL033538.1/41528-41639
+design_name:RF02203:WT1 antisense RNA conserved region 1:X74840.1/1233-1125
+design_name:RF02204:WT1 antisense RNA conserved region 2:U77682.1/333-197
+design_name:RF02205:WT1 antisense RNA conserved region 3:AL049692.13/52645-52412
+design_name:RF02206:WT1 antisense RNA conserved region 4:DQ289488.1/1032-1159
+design_name:RF02208:WT1 antisense RNA conserved region 6:DQ289489.1/2040-2160
+design_name:RF02212:ZFAT antisense RNA 1 conserved region 2:AB167742.1/248-448
+design_name:RF02215:ZNFX1 antisense RNA 1 conserved region 1:AL049766.14/55677-55874
+design_name:RF02222:Xanthomonas sRNA sX2:AM920689.1/90601-90706
+design_name:RF02223:Proteobacterial sRNA sX4:AM920689.1/3837482-3837316
+design_name:RF02230:Proteobacterial sRNA sX11:AM920689.1/1028434-1028297
+design_name:RF02232:Xanthomonadaceae sRNA sX13:AM920689.1/4756283-4756169
+design_name:RF02234:Xanthomonadaceae sRNA sX15:AM743169.1/3623545-3623388
+design_name:RF02235:Xanthomonadaceae sRNA asX1:AE009442.1/956107-956224
+design_name:RF02237:Xanthomonas sRNA asX3:AP008229.1/605165-604984
+design_name:RF02242:Xanthomonadaceae sRNA Xoo5:CP000967.1/2045785-2045908
+design_name:RF02247:Six3os1 conserved region 2:BC065087.1/1944-1722
+design_name:RF02251:Six3os1 conserved region 6:AC166821.2/75980-76178
+design_name:RF02252:Six3os1 conserved region 7:AC166821.2/77138-77330
+design_name:RF02257:Adaptive response 33 conserved region 3:AC107744.8/35683-35546
+design_name:RF02258:Adaptive response 33 conserved region 4:AC107744.8/35455-35277
+design_name:RF02259:Vax2os1 conserved region 1:AY589787.1/1733-1547
+design_name:RF02268:MtlS RNA:FM178379.1/3046315-3046195
+design_name:RF02271:TUC338:AC023509.42/158050-157869
+design_name:RF02272:Vax2os1 conserved region 3:AC090647.6/86135-85942
+design_name:RF02274:AniS:CP002419.1/1099947-1099843
+design_name:RF02277:Hammerhead ribozyme HH10:DAAA02059264.1/10059-10184
+design_name:RF02284:Tetrahymena snoRNA TtnuCD7:JF909306.1/1-108
+design_name:RF02287:Tetrahymena snoRNA TtnuCD10:JF909308.1/1-117
+design_name:RF02309:Tetrahymena snoRNA TtnuHACA1:EF503649.1/1-113
+design_name:RF02310:Tetrahymena snoRNA TtnuHACA2:EF503650.1/1-121
+design_name:RF02311:Tetrahymena snoRNA TtnuHACA3:JF909326.1/1-152
+design_name:RF02312:Tetrahymena snoRNA TtnuHACA5:JF909328.1/1-132
+design_name:RF02313:Tetrahymena snoRNA TtnuHACA6:JF909329.1/1-130
+design_name:RF02314:Tetrahymena snoRNA TtnuHACA7:AAGF03001292.1/36463-36591
+design_name:RF02315:Tetrahymena snoRNA TtnuHACA8:JF909330.1/1-130
+design_name:RF02316:Tetrahymena snoRNA TtnuHACA9:X66431.1/1-135
+design_name:RF02318:Tetrahymena snoRNA TtnuHACA11a:JF909331.1/1-141
+design_name:RF02319:Tetrahymena snoRNA TtnuHACA12:JF909333.1/1-131
+design_name:RF02320:Tetrahymena snoRNA TtnuHACA13:JF909334.1/1-134
+design_name:RF02321:Tetrahymena snoRNA TtnuHACA14:JF909335.1/1-133
+design_name:RF02322:Tetrahymena snoRNA TtnuHACA15:EF503656.1/1-117
+design_name:RF02323:Tetrahymena snoRNA TtnuHACA16:EF503658.1/1-117
+design_name:RF02324:Tetrahymena snoRNA TtnuHACA17:JF909336.1/1-118
+design_name:RF02325:Tetrahymena snoRNA TtnuHACA18:JF909337.1/1-130
+design_name:RF02326:Tetrahymena snoRNA TtnuHACA19:EF503651.1/1-121
+design_name:RF02327:Tetrahymena snoRNA TtnuHACA20:EF503652.1/1-123
+design_name:RF02328:Tetrahymena snoRNA TtnuHACA21:X66430.1/1-130
+design_name:RF02330:Tetrahymena snoRNA TtnuHACA23:JF909338.1/1-133
+design_name:RF02331:Tetrahymena snoRNA TtnuHACA24:X66432.1/1-127
+design_name:RF02332:Tetrahymena snoRNA TtnuHACA25:EF503655.1/1-111
+design_name:RF02334:Tetrahymena snoRNA TtnuHACA28:X66429.1/1-134
+design_name:RF02341:Mycobacterium sRNA ncrMT1302:ABIN01000073.1/238558-238450
+design_name:RF02342:Alphaproteobacterial sRNA ar7:AM236080.1/192753-192620
+design_name:RF02343:Alphaproteobacterial sRNA ar9:AM236080.1/1803079-1802936
+design_name:RF02344:Alphaproteobacterial ar14:CP002781.1/3627045-3626927
+design_name:RF02345:Alphaproteobacterial ar15:CP001389.1/1612626-1612514
+design_name:RF02346:Alphaproteobacterial sRNA ar35:CP000759.1/1587279-1587135
+design_name:RF02347:Alphaproteobacterial sRNA ar45:BX897700.1/1185319-1185173
+design_name:RF02349:Proteobacterial sRNA psRNA2:CP000103.1/2391894-2392092
+design_name:RF02354:Bradyrhizobiaceae sRNA BjrC80:CP000115.1/1303083-1303235
+design_name:RF02355:Bradyrhizobiaceae sRNA BjrC174:BX572593.1/224291-224494
+design_name:RF02356:Alphaproteobacterial sRNA BjrC1505:CP000301.1/877729-877864
+design_name:RF02357:RNaseP truncated form:AE009441.1/542976-543182
+design_name:RF02360:Cyanobacterial functional RNA 8/9:AACY021889802.1/369-594
+design_name:RF02363:Cyanobacterial functional RNA 11:BX548174.1/358754-358606
+design_name:RF02368:Cyanobacterial functional RNA 21:BX548174.1/1069757-1069553
+design_name:RF02369:h2cR sRNA:CP000614.1/1613873-1614008
+design_name:RF02370:Bacillus tryptophan operon leader:AEFO01000035.1/194959-194814
+design_name:RF02374:Yersinia YenS sRNA:AALE02000015.1/22232-22398
+design_name:RF02375:Aar sRNA:ACVR01000020.1/129184-128998
+design_name:RF02376:SR1 sRNA:AEFP01000007.1/448577-448780
+design_name:RF02378:SurC sRNA:CP002905.1/2606967-2607127
+design_name:RF02384:FasX small RNA:AEGO01000002.1/1921072-1920866
+design_name:RF02390:Staphylococcus sRNA sau-41:FR821777.2/448378-448223
+design_name:RF02392:Staphylococcus sRNA sau-53:ACST01000042.1/55063-55254
+design_name:RF02393:Staphylococcus sRNA sau-59:AEUN01000307.1/84765-84638
+design_name:RF02404:Pseudomonas sRNA P33:AE004091.2/5775061-5775220
+design_name:RF02409:Small nucleolar RNA snoR125:AC068602.2/61774-61577
+design_name:RF02410:Small nucleolar RNA snoR136:CT963106.2/109334-109194
+design_name:RF02411:Small nucleolar RNA snoR138:EU379009.1/172-328
+design_name:RF02412:Small nucleolar RNA snoR144:AFAN01000032.1/11034289-11034145
+design_name:RF02413:Small nucleolar RNA snoR145:AFSP01066114.1/1322-1172
+design_name:RF02414:Listeria sRNA rli60:ADXK01000969.1/3567-3750
+design_name:RF02421:Burkholderia sRNA Bp1_Cand684_SIPHT:CP000124.1/3038708-3038821
+design_name:RF02422:Burkholderia sRNA Bp1_Cand738_SIPHT:CP001408.1/3106014-3106222
+design_name:RF02423:Burkholderia sRNA Bp1_Cand871_SIPHT:CP000526.1/3314513-3314740
+design_name:RF02424:Burkholderia sRNA Bp2_Cand287_SIPHT:AAKY01000134.1/11265-11093
+design_name:RF02426:Streptococcus sRNA SpF03:AGPS01000003.1/108824-108929
+design_name:RF02429:Streptococcus sRNA SpF14:AEGF01000069.1/9500-9619
+design_name:RF02431:Streptococcus sRNA SpF22:AFQV01000023.1/77720-77859
+design_name:RF02434:Streptococcus sRNA SpF39:CP000936.1/1042675-1042794
+design_name:RF02442:Streptococcus sRNA SpF66:ABAD01000008.1/1107-1345
+design_name:RF02446:Streptococcus sRNA SpR18:AEXM01000031.1/44882-44751
+design_name:RF02447:Streptococcus sRNA SpR19:AFUO01000002.1/76867-76988
+design_name:RF02449:Bacillus sRNA ncr1015:CP002468.1/178695-178814
+design_name:RF02450:Bacillus sRNA ncr1175:CP002905.1/2722560-2722668
+design_name:RF02452:Bacillus sRNA ncr1575:AEFY01000060.1/10854-11054
+design_name:RF02453:Bacillus sRNA ncr952:AL009126.3/1780406-1780550
+design_name:RF02456:Dianthovirus RNA2 3'UTR stem loops:X08021.1/1247-1448
+design_name:RF02457:Tombusvirus 3' cap-independent translation element:Z68899.1/618-782
+design_name:RF02458:Aureusvirus cap-independent translation element:X87115.1/4173-4291
+design_name:RF02461:Blackcurrant reversion virus cap-independent translation element:AF020051.3/5006-5120
+design_name:RF02469:Actinobacteria sRNA Ms_IGR-7:AFAQ01001960.1/4293-4412
+design_name:RF02471:Actinobacteria sRNA Ms_IGR-5:AGSZ01000296.1/14276-14104
+design_name:RF02472:Giardia RNase MRP:CH991769.1/781197-781009
+design_name:RF02481:Small nucleolar RNA GlsR18:AACB02000045.1/26369-26517
+design_name:RF02482:Small nucleolar RNA GlsR19:ACGJ01001859.1/18807-18659
+design_name:RF02483:Small nucleolar RNA GlsR20:ACGJ01000491.1/21078-21184
+design_name:RF02484:Small nucleolar RNA GlsR21:AACB02000002.1/624760-624649
+design_name:RF02485:Small nucleolar RNA GlsR22:AACB02000001.1/458263-458113
+design_name:RF02486:Small nucleolar RNA GlsR23:ACVC01000147.1/10980-10834
+design_name:RF02487:Small nucleolar RNA GlsR24:AACB02000040.1/79498-79351
+design_name:RF02488:Small nucleolar RNA GlsR25:AACB02000068.1/10221-10367
+design_name:RF02489:Small nucleolar RNA GlsR26:AACB02000068.1/10395-10508
+design_name:RF02490:Small nucleolar RNA GlsR27:AACB02000004.1/98546-98434
+design_name:RF02491:Giardia U1 spliceosomal RNA:ACGJ01002471.1/10991-11110
+design_name:RF02492:Giardia U2 spliceosomal RNA:AACB02000002.1/54704-54569
+design_name:RF02496:Rhizobiales sRNA Atu_At1:AE007872.2/55272-55165
+design_name:RF02498:Rhizobiales sRNA Atu_C3:AE007869.2/317175-317330
+design_name:RF02500:EcpR1:CP000628.1/1499310-1499419
+design_name:RF02501:Rhizobiales sRNA Atu_C7:AACY023244673.1/230-73
+design_name:RF02502:Rhizobiales sRNA Atu_C8:ABQZ01002409.1/1146-1026
+design_name:RF02503:Rhizobiales sRNA Atu_C9:AE007869.2/2087200-2087379
+design_name:RF02504:Rhizobiales sRNA Atu_L1:AGSM01000014.1/130526-130699
+design_name:RF02505:Rhizobiales sRNA Atu_L6:AECL01000014.1/126110-126233
+design_name:RF02508:Rhizobiales sRNA Atu_Ti4:AE007871.2/194399-194505
+design_name:RF02515:AfaR small RNA:ADTK01000078.1/5754-5987
+design_name:RF02516:mir-393 microRNA precursor family:AC147434.12/80936-80818
+design_name:RF02518:mir-2494 microRNA precursor family:AAEU02000024.1/13434-13318
+design_name:RF02524:Streptococcus sRNA sagA:AE014074.1/529786-529944
+design_name:RF02525:Streptococcus sRNA SSRC30:CP003068.1/1229328-1229478
+design_name:RF02526:Streptococcus sRNA SSRC34:AP012053.1/392234-392108
+design_name:RF02527:Streptococcus sRNA SSRC38:AY464086.1/106-271
+design_name:RF02528:Streptococcus sRNA SSRC41:CP002215.1/2071424-2071314
+design_name:RF02529:Streptococcus sRNA SSRC8:AM295007.1/1492343-1492492
+design_name:RF02530:Ure2 internal ribosome entry site (IRES):M35268.1/386-490
+design_name:RF02531:Nrf2 internal ribosome entry site (IRES):ACFV01059192.1/6065-5938
+design_name:RF02532:Murine norovirus 3'UTR:EU004681.1/7161-7389
+design_name:RF02533:Hepatitis A virus (HAV) cis-acting replication element (CRE):D00924.1/5890-6003
+design_name:RF02535:ODC internal ribosome entry site (IRES):ACFV01178186.1/6341-6215
+design_name:RF02536:Avian encephalitis virus (AEV) cis-acting replication element (CRE):AJ225173.1/5433-5567
+design_name:RF02547:Permuted mitochondrial genome encoded 5S rRNA:AY494079.1/34765-34870
+design_name:RF02550:RnaG sRNA:M22802.1/555-436
+design_name:RF02553:Y RNA-like:AEYZ01000396.1/7368-7480
+design_name:RF02555:mt-5S-like H. vermiformis:GU828005.1/51412-51535
+design_name:RF02556:snaR-A sRNA:GQ259354.1/147-261
+design_name:RF02557:Coxiella burnetii sRNA 1:CP001020.1/180525-180636
+design_name:RF02559:Coxiella burnetii sRNA 4:CP001019.1/1365912-1365717
+design_name:RF02560:Coxiella burnetii sRNA 9:CP000733.1/999408-999196
+design_name:RF02561:Coxiella burnetii sRNA 12:CP001020.1/1622185-1622332
+design_name:RF02562:Coxiella burnetii sRNA 14:CP001020.1/26215-26403
+design_name:RF02563:Coxiella burnetii sRNA 3:CP001020.1/1264622-1264425
+design_name:RF02569:IhtA sRNA:CP002024.1/53023-53129
+design_name:RF02572:Brucella babR 5'UTR:ACOR01000001.1/198901-199034
+design_name:RF02577:S. aureus tsr24 small RNA:AM990992.1/1016690-1016925
+design_name:RF02578:S. aureus tsr25 small RNA:BX571857.1/1456102-1456281
+design_name:RF02579:S. aureus tsr26 small RNA:CP002643.1/2737445-2737565
+design_name:RF02581:S. aureus tsr32 small RNA:ACSS01000004.1/14129-14279
+design_name:RF02593:Nitrogen stress-induced RNA 8:CP000117.1/1926385-1926556
+design_name:RF02594:Nitrogen stress-induced RNA 9:CP000117.1/4487021-4486899
+design_name:RF02600:Brucella sRNA CI27:ADFB01000087.1/21620-21786
+design_name:RF02601:Brucella sRNA CI337:ACBP01000037.1/46168-46357
+design_name:RF02602:Brucella sRNA CI414:ADEZ01000007.1/240503-240277
+design_name:RF02603:Brucella sRNA CII26:ACEH01000014.1/37080-36891
+design_name:RF02604:Brucella sRNA CI153:ADFB01000074.1/210466-210679
+design_name:RF02605:Streptomyces sRNA scr5239:ABYC01000352.1/1060-1217
+design_name:RF02606:Acinetobacter sRNA 28:CP000521.1/3285873-3286051
+design_name:RF02607:Acinetobacter sRNA 25:AEOZ01000163.1/28810-28647
+design_name:RF02608:Acinetobacter sRNA 11:CP002177.1/1778400-1778599
+design_name:RF02609:Brucella sRNA 0602:AE008918.1/635956-636124
+design_name:RF02612:Brucella sRNA 1350:AE008917.1/1405266-1405091
+design_name:RF02613:Brucella sRNA 0739:AE008917.1/764954-765113
+design_name:RF02614:Brucella sRNA 1073:AE008918.1/1114550-1114745
+design_name:RF02615:Brucella sRNA 0626:AE008918.1/661282-661409
+design_name:RF02617:Streptococcus sRNA 10:AE014074.1/482091-482203
+design_name:RF02618:Streptococcus sRNA 34:AE014074.1/1503185-1503061
+design_name:RF02622:Brucella sRNA 121:AE014291.4/1150053-1149938
+design_name:RF02625:Wolbachia sRNA 46:AE017196.1/1204493-1204642
+design_name:RF02629:Regulator of motility and amylovoran A:FN666575.1/1783564-1783452
+design_name:RF02632:Hfq-regulated sRNA 10:FN666575.1/2356768-2356621
+design_name:RF02633:Hfq-regulated sRNA 21:FN666575.1/1267525-1267392
+design_name:RF02634:Enterococcus sRNA EF3314_EF3315:AE016830.1/3201675-3201535
+design_name:RF02638:Enterococcus sRNA EF0605_EF0606:AE016830.1/569151-569329
+design_name:RF02640:S. pyogenes small RNA MOSES4:BA000034.2/1598159-1597984
+design_name:RF02642:S. pyogenes small RNA Spy491311c:CP000829.1/1321853-1321711
+design_name:RF02645:Ruegeria cis2 sRNA:CP000031.1/41199-41047
+design_name:RF02646:Ruegeria cis8 sRNA:CP000031.1/201160-201287
+design_name:RF02647:Ruegeria cis52 sRNA:CP000031.1/1765577-1765755
+design_name:RF02648:Ruegeria cis90 sRNA:CP000031.1/3999629-3999858
+design_name:RF02650:Cag non-coding RNA1:CP001173.1/536898-536686
+design_name:RF02652:Salmonella enterica Typhi npcRNA 3:FJ746361.1/1-144
+design_name:RF02653:Salmonella enterica Typhi npcRNA 143:FJ746389.1/1-144
+design_name:RF02655:Brucella BSR0441 sRNA:AE008918.1/466022-466261
+design_name:RF02656:Sense overlapping transcript RNA 0042 (sot):AE004437.1/34775-34602
+design_name:RF02657:Sense overlapping transcript RNA 2652 (sot):AE004437.1/1988005-1987819
+design_name:RF02659:ncRv12659 sRNA:ABLN01000435.1/3857-4030
+design_name:RF02662:Bacillus asRNA 0872:AE017333.1/1108968-1109111
+design_name:RF02665:Drosophila small cajal body-specific RNA PsiU1-6:AE014297.2/5539329-5539487
+design_name:RF02666:Drosophila small cajal body-specific RNA PsiU2-35.45:AE013599.4/1652685-1652824
+design_name:RF02667:Drosophila small cajal body-specific RNA PsiU2-38.40.4:JN409597.1/1-137
+design_name:RF02668:Drosophila small cajal body-specific RNA PsiU2-55:AE013599.4/8048808-8048631
+design_name:RF02669:Drosophila small cajal body-specific RNA PsiU6-40:AE014296.4/20999620-20999479
+design_name:RF02670:small Cajal body-specific RNA Dm46E3:EU924798.1/1-137
+design_name:RF02672:Small pathogenicity island RNA X:CP000253.1/1464207-1464058
+design_name:RF02678:Hatchet ribozyme:URS0000D6C318_12908/1-119
+design_name:RF02686:RAGATH-6 RNA:BABB01003568.1/701-850
+design_name:RF02690:Burkholderia sRNA 1:CP000086.1/259652-259853
+design_name:RF02691:Burkholderia sRNA 19:CP000086.1/2372761-2372984
+design_name:RF02692:Burkholderia sRNA 39:CP000085.1/2477661-2477789
+design_name:RF02693:psm_mec locus RNA:BX571856.1/49332-49190
+design_name:RF02694:RalR antitoxin:CP001396.1/1303639-1303817
+design_name:RF02695:Nitrogen regulated small RNA:AE004091.2/5775397-5775632
+design_name:RF02696:Teg49 sRNA:BA000018.3/667081-666886
+design_name:RF02698:Avalong 5' UTR thermometer:CP000117.1/6046551-6046681
+design_name:RF02704:LcrF intergenic thermometer:CP001049.1/68923-69055
+design_name:RF02705:Brassica rapa small nucleolar RNA 775:CP002684.1/29422149-29422275
+design_name:RF02706:TeloSII non coding RNA 30:CP002684.1/471418-471193
+design_name:RF02708:TeloSII non coding RNA 40:CP002685.1/3416235-3416396
+design_name:RF02712:Epstein-Barr virus EBER2:EF187853.1/405-577
+design_name:RF02713:Mycoplasma sRNA MCS4:FR668087.1/130837-130959
+design_name:RF02714:Small nucleolar RNA psi28S-3378:AAPU01010147.1/87506-87365
+design_name:RF02715:Small nucleolar RNA ncR1:CP002684.1/14283553-14283663
+design_name:RF02718:Small Cajal body specific RNA ncR14:CP002688.1/3642496-3642628
+design_name:RF02720:Small Cajal body specific RNA ncR21:CP002685.1/9809455-9809345
+design_name:RF02723:Small nucleolar RNA ZL1:BL000002.1/98018519-98018714
+design_name:RF02729:Aggregatibacter sRNA JA01:FJ664179.1/451-603
+design_name:RF02730:Aggregatibacter sRNA JA02:FJ664181.1/95-210
+design_name:RF02734:Corynebacterium sRNA 105:BA000036.3/10053-9921
+design_name:RF02740:Soft rot Enterobacteriaceae Fwd 6 3'UTR:BX950851.1/28634-28749
+design_name:RF02747:Francisella sRNA A:AM233362.1/1256577-1256687
+design_name:RF02748:Francisella sRNA B:AM233362.1/37655-37769
+design_name:RF02755:ES222 sRNA:U00096.2/4056241-4056348
+design_name:RF02756:ES239 sRNA:U00096.2/4434589-4434711
+design_name:RF02758:RhlA 5' UTR ROSE like thermometer:CP000744.1/1685738-1685848
+design_name:RF02759:LasI 5' UTR ROSE like thermometer:FM209186.1/4393752-4393643
+design_name:RF02760:sR035 sRNA:CP002956.1/631353-631148
+design_name:RF02762:C1_109596F  5' UTR thermometer:AE007869.2/109596-109822
+design_name:RF02766:Yersinia sRNA 49:CP002956.1/1072902-1073025
+design_name:RF02768:Yersinia sRNA 155(RyfD):CP000950.1/3676769-3676631
+design_name:RF02770:Yersinia sRNA 224:CP000950.1/3853136-3853030
+design_name:RF02771:CnfY 5' UTR thermometer:CP002956.1/4018238-4018127
+design_name:RF02774:KatA 5' UTR thermometer:AM286415.1/1541353-1541200
+design_name:RF02775:SodB 5' UTR thermometer:CP000950.1/2071600-2071482
+design_name:RF02778:FdoG-1 5' UTR thermometer:CP000950.1/40050-40239
+design_name:RF02779:PepN 5' UTR thermometer:CP000950.1/2907108-2906974
+design_name:RF02781:ManX 5' UTR thermometer:CP000950.1/2697845-2697960
+design_name:RF02782:CpoB/ybgF ICR thermometer:CP000950.1/3253881-3253743
+design_name:RF02783:IscS-1 ICR thermometer:CP000950.1/1403563-1403745
+design_name:RF02786:Small nucleolar RNA TBR2:CM000208.1/3814615-3814725
+design_name:RF02792:Archaeal Small RNA 162:AE008384.1/2915320-2915131
+design_name:RF02798:Chromosome-encoded Shigella sRNA A:CP007394.1/826052-826161
+design_name:RF02799:Chromosome-encoded Shigella sRNA B:AFGZ01000047.1/125824-125645
+design_name:RF02809:RsmW RNA family:AE004091.2/5118199-5118323
+design_name:RF02815:Lig 5' UTR thermometer:AHNZ02000335.1/6200-6404
+design_name:RF02818:Vibrio RNA AS5:CP007653.1/1278983-1278851
+design_name:RF02819:Vibrio RNA AS7:CP007654.1/556735-556567
+design_name:RF02821:Vibrio RNA IGR5:CP007654.1/299263-299373
+design_name:RF02822:Streptococcus RNA 266:AGPS01000006.1/91244-91354
+design_name:RF02826:Streptomyces RNA 6925:AL645882.2/7688336-7688466
+design_name:RF02828:Streptomyces RNA 3920:AL645882.2/4315358-4315484
+design_name:RF02829:Streptomyces RNA 4115:AL645882.2/4515318-4515426
+design_name:RF02830:Streptomyces RNA 1601:AL645882.2/1712074-1711860
+design_name:RF02832:Streptomyces RNA 5676:AL645882.2/6176413-6176284
+design_name:RF02834:Vibrio RNA VqmR:CP007654.1/1010014-1010167
+design_name:RF02835:Burkholderia RNA 11:JRKM01000001.1/1213986-1213865
+design_name:RF02836:Burkholderia RNA 14:CP002599.1/3752808-3752636
+design_name:RF02839:Enterococcus sRNA 66:CSXB01000067.1/316-206
+design_name:RF02840:Enterococcus sRNA 68 (Lacto-3 RNA):URS0000D6AC76_945021/1-108
+design_name:RF02841:Enterococcus sRNA 70:KB946316.1/1298052-1298174
+design_name:RF02842:Enterococcus sRNA A1:CP000731.1/4022-3800
+design_name:RF02845:Enterococcus sRNA 1C:AP013036.1/2361813-2361933
+design_name:RF02848:Enterococcus sRNA B11:AE016831.1/55455-55622
+design_name:RF02850:Yersinia sRNA 276:AL590842.1/3846865-3846671
+design_name:RF02854:Yersinia sRNA 100:AL590842.1/324999-325118
+design_name:RF02855:Yersinia sRNA 251:AL590842.1/2222488-2222295
+design_name:RF02856:Leptospira sRNA 30_292:AE010300.2/3674576-3674690
+design_name:RF02857:Leptospira sRNA 30_255:AKWN02000085.1/9204-8993
+design_name:RF02859:Actinobacillus sRNA 11:CP000569.1/208880-209050
+design_name:RF02860:Actinobacillus sRNA 14:CP000569.1/446936-447102
+design_name:RF02861:Neisseria sRNA 84:AE002098.2/2021833-2022018
+design_name:RF02862:Enterococcus sRNA 1300:CP013476.1/843083-842853
+design_name:RF02863:Enterococcus sRNA 2410:CP003583.1/2651143-2651337
+design_name:RF02864:Enterococcus sRNA 30:CP007447.1/460729-460565
+design_name:RF02865:Burkholderia sRNA 1:AM747720.1/20581-20691
+design_name:RF02867:Burkholderia sRNA 11:AM747720.1/2545503-2545296
+design_name:RF02868:Burkholderia sRNA 37:AM747721.1/2568766-2568918
+design_name:RF02870:Burkholderia sRNA 35:AM747721.1/2304378-2304211
+design_name:RF02872:sRNA regulator of biofilms A:AE004091.2/2977373-2977611
+design_name:RF02876:Antisense to pHK01_099:CP000035.1/103155-102972
+design_name:RF02879:Mesorhizobail RNA 10:BA000012.4/6385458-6385600
+design_name:RF02881:Mesorhizobail RNA 25:BA000012.4/2548546-2548344
+design_name:RF02883:Burkholderia sRNA 2:AM747720.1/2136330-2136461
+design_name:RF02884:Burkholderia sRNA 7:AM747720.1/2967627-2967793
+design_name:RF02886:Mycobacterium sRNA 6715:AL123456.3/2152648-2152437
+design_name:RF02887:Salmonella mgtC leader RNA:AE014613.1/3868819-3868931
+design_name:RF02889:Pseudomonas sRNA 6:AE004091.2/182693-182570
+design_name:RF02890:Small pathogenicity island RNA C (srn_3610):CP000253.1/1861587-1861438
+design_name:RF02895:Staphylococcus sRNA 414:CP000253.1/1364078-1364252
+design_name:RF02899:Aggregatibacter sRNA 54:CP001733.2/381931-381814
+design_name:RF02901:Aggregatibacter sRNA 41:CP001733.2/457528-457706
+design_name:RF02903:Aggregatibacter sRNA 96:CP001733.2/1509891-1509775
+design_name:RF02905:Archaeal Small RNA 41:AE008384.1/800086-799972
+design_name:RF02906:Archaeal Small RNA 154:AE008384.1/4065452-4065319
+design_name:RF02908:Listeria sRNA rli30:AL591824.1/540785-540670
+design_name:RF02911:Baculoviridae Nucleocapsid Assembly essential Element:AY145471.1/67691-67890
+design_name:RF02916:atpB RNA:URS0000D68378_525262/1-135
+design_name:RF02919:ilvB-OMG RNA:URS0000D66C4C_12908/1-205
+design_name:RF02920:Fusobacteriales-1 RNA:URS0000D6D21C_12908/1-181
+design_name:RF02921:RT-14 RNA:URS0000D6CAFC_12908/1-145
+design_name:RF02928:Actinomyces-1 RNA:URS0000D6BE00_12908/1-111
+design_name:RF02932:Betaproteobacteria-1 RNA:URS0000D693BD_12908/1-117
+design_name:RF02936:Chloroflexus-1 RNA:URS0000D65C50_326427/1-170
+design_name:RF02942:Clostridiales-3 RNA:URS0000D67D3E_12908/1-236
+design_name:RF02947:cow-rumen-2 RNA:URS0000D68D56_12908/1-107
+design_name:RF02951:DABA-DC-AT RNA:URS0000D6B0EC_1121374/1-158
+design_name:RF02955:EGFOA RNA:URS0000D6758F_12908/1-109
+design_name:RF02956:DUF2693 RNA:URS0000D69209_12908/1-208
+design_name:RF02957:EFASI RNA:URS0000D6A70B_12908/1-139
+design_name:RF02960:DUF2800 RNA:URS0000D69FB9_12908/1-154
+design_name:RF02966:DUF3268 RNA:URS0000D6652C_12908/1-122
+design_name:RF02969:DUF3800-I RNA:URS0000D6C906_12908/1-121
+design_name:RF02973:Enterococcus-1 RNA:URS0000D6A625_1158614/1-144
+design_name:RF02976:Flavobacterium-1 RNA:URS0000D6C308_12908/1-123
+design_name:RF02981:FTHFS RNA:URS0000D673FD_12908/1-124
+design_name:RF02982:gltS RNA:URS0000D6A08A_1188252/1-122
+design_name:RF02989:gntR-DTE RNA:URS0000D66ED7_12908/1-133
+design_name:RF02994:IMPDH RNA:URS0000D6C30D_12908/1-109
+design_name:RF02995:IMES-5 RNA:URS0000D694A5_12908/1-153
+design_name:RF02998:IS605-orfB-II RNA:URS0000D694A6_12908/1-138
+design_name:RF03000:LOOT RNA:URS0000D67D6E_12908/1-136
+design_name:RF03005:lysM-TM7 RNA:URS0000D69791_12908/1-130
+design_name:RF03007:Mahella-1 RNA:URS0000D66F28_12908/1-111
+design_name:RF03016:RT-12 RNA:URS0000D69403_391774/1-139
+design_name:RF03018:RT-15 RNA:URS0000D6C36C_12908/1-192
+design_name:RF03019:RT-16 RNA:URS0000D664D3_12908/1-187
+design_name:RF03022:RT-10 RNA:URS0000D66309_12908/1-118
+design_name:RF03025:RT-4 RNA:URS0000D6872B_12908/1-118
+design_name:RF03028:RT-7 RNA:URS0000D6BAF1_12908/1-208
+design_name:RF03033:NLPC-P60 RNA:URS0000D6A3B8_1156841/1-105
+design_name:RF03035:nqrA-Marinomonas RNA:URS0000D6C111_717774/1-136
+design_name:RF03041:poplar-1 RNA:URS0000D6CEC0_12908/1-139
+design_name:RF03043:Prevotella-2 RNA:URS0000D6ADF5_12908/1-120
+design_name:RF03045:proV RNA:URS0000D67B2F_12908/1-147
+design_name:RF03046:Pseudomonadales-1 RNA:URS0000D6B3CF_12908/1-161
+design_name:RF03053:OTKONC RNA:URS0000D65E42_12908/1-169
+design_name:RF03062:xerDC RNA:URS0000D6B395_12908/1-131
+design_name:RF03063:Streptomyces-metK RNA:URS0000D65784_452652/1-122
+design_name:RF03065:IS605-orfB-I RNA:URS0000D69CDD_12908/1-217
+design_name:RF03066:COG3610-DE RNA:URS0000D6AF7E_12908/1-114
+design_name:RF03068:RT-3 RNA:URS0000D6CDB0_12908/1-161
+design_name:RF03069:malK-I RNA:URS0000D67316_12908/1-196
+design_name:RF03073:RT-19 RNA:URS0000D665BD_12908/1-112
+design_name:RF03076:Streptomyces-metH RNA:URS0000D682DE_452652/1-115
+design_name:RF03077:RT-2 RNA:URS0000D659CD_12908/1-161
+design_name:RF03088:Parabacteroides-1 RNA:URS0000D6CD6D_12908/1-108
+design_name:RF03089:cold-seep-1 RNA:URS0000D65E3A_12908/1-152
+design_name:RF03090:lysM-Actino RNA:URS0000D66119_12908/1-219
+design_name:RF03094:LAGLIDADG-2 RNA:URS0000D6B8FB_1227485/1-137
+design_name:RF03096:RAGATH-19 RNA:URS0000D66FEA_12908/1-139
+design_name:RF03097:RAGATH-21 RNA:URS0000D69B07_12908/1-108
+design_name:RF03098:RAGATH-22 RNA:URS0000D65BEA_12908/1-167
+design_name:RF03102:RAGATH-33 RNA:URS0000D6B176_12908/1-127
+design_name:RF03103:RAGATH-34 RNA:URS0000D69BC1_12908/1-108
+design_name:RF03104:RAGATH-36 RNA:URS0000D6BD3B_12908/1-122
+design_name:RF03105:RAGATH-7-assoc RNA:URS0000D6A41F_12908/1-122
+design_name:RF03106:RT-11 RNA:URS0000D6A2A3_12908/1-133
+design_name:RF03107:saliva-tongue-1 RNA:URS0000D6BC63_12908/1-109
+design_name:RF03108:Methylosinus-1 RNA:URS0000D6A111_595536/1-214
+design_name:RF03112:Staphylococcus-1 RNA:URS0000D6B60C_12908/1-124
+design_name:RF03114:RT-1 RNA:URS0000D67A7F_12908/1-110
+design_name:RF03118:Gammacoronavirus 5'UTR:NC_001451.1/1-200
+design_name:RF03145:RAGATH-14 RNA:URS0000D6AD98_12908/1-231
+design_name:RNA URS0000CA457F_2026775
+design_name:RNA URS0000D32215_9598
+design_name:RNA URS0000D69094_12908
+design_name:RNase MRP -and-  rRNA
+design_name:ROOL
+design_name:Rattus norvegicus (Norway rat) Small Cajal body-specific RNA 2 URS00006D7BF9_10116 #G-quad #i-motif
+design_name:RtT
+design_name:S42235.1
+design_name:SART-1
+design_name:SINV
+design_name:SNORD97
+design_name:SV_a
+design_name:SV_b
+design_name:SV_c
+design_name:SV_d
+design_name:SV_d2
+design_name:SV_e
+design_name:SV_f
+design_name:SV_f2
+design_name:SV_g
+design_name:SV_g2
+design_name:SV_h
+design_name:SV_h2
+design_name:SV_h3
+design_name:SV_i
+design_name:SV_i2
+design_name:SV_i3
+design_name:SV_j
+design_name:Salmonella enterica subsp. arizonae serovar 62:z4,z23:-- SgrS RNA URS00006EDDE9_41514 #G-quad
+design_name:Sclerotinia sclerotiorum deltaflexivirus 1 isolate AX19 polyprotein and hypothetical protein genes, complete cds
+design_name:Shewanella oneidensis MR-1 FMN riboswitch (RFN element) URS0000ABA15B_211586
+design_name:SpeedoKnot 1—Sinorhizobium meliloti 2011 Long range pseudoknot
+design_name:Staphylococcus aureus 3'UTR URS0000E1C41C_1280
+design_name:Sus scrofa (pig) snoRNA (ENSSSCG00050054781.1) URS00019796DA_9823
+design_name:Thermotoga lettingae TMO HNH endonuclease-associated RNA and ORF (HEARO) RNA
+design_name:U26884.1
+design_name:U58462.1
+design_name:URS00000F6515_487402
+design_name:URS0000339E7C_96799
+design_name:URS00003683F3_644634
+design_name:URS000041EB5B_9606
+design_name:URS00005053F9_259531
+design_name:URS0000531401_3225
+design_name:URS000055557D_9606
+design_name:URS00005756BD_9606
+design_name:URS00006649B8_9606
+design_name:URS0000706530_9606
+design_name:URS000072157F_9606
+design_name:URS000075B697_9606
+design_name:URS000081E33F_9606
+design_name:URS00008E39F0_9606
+design_name:URS00008E3A22_9606
+design_name:URS0000A47F38_189385
+design_name:URS0000BD6C03_10093
+design_name:URS0000D24DD5_9601
+design_name:URS0000D2AA9B_9601
+design_name:URS0000D66A3B_742818
+design_name:URS0000D68657_12908
+design_name:URS0000DA8829_668336
+design_name:URS0000DB62C7_6958
+design_name:URS0000EFAB20_644223
+design_name:URS0002361D2B_51953
+design_name:URS000236D69F_3634
+design_name:Vampire Bat — Desmodus rotundus (common vampire bat) 16S ribosomal RNA 764-1003
+design_name:Vampire Bat — Desmodus rotundus (common vampire bat) 16S ribosomal RNA 766-1005
+design_name:X04731.1
+design_name:X13623.1
+design_name:X13623.1 H
+design_name:X16274.1
+design_name:X64610.1
+design_name:X69217.1
+design_name:X96489.1
+design_name:Xishuangbanna aedes flavivirus, complete genome
+design_name:Xist exon4
+design_name:Yersinia aldovae ATCC 35236 PepN 5' UTR thermometer URS0000DA069B_527002
+design_name:Z37049.1
+design_name:Z37096.1
+design_name:Z37097.1
+design_name:antisense RNA of rseC mRNA
+design_name:carA ncRNA
+design_name:carA ncRNA motif #RF04192 #Polynucleobacter necessarius subsp. necessarius STIR1 #G-quad
+design_name:carA ncRNA motif #RF04192 #Polynucleobacter necessarius subsp. necessarius STIR1 #G-quad
+design_name:lysM-Actino
+design_name:lysM-TM7
+design_name:pdb|1Y0Q|A
+design_name:pdb|3J16|J
+design_name:pdb|3JCS|3
+design_name:pdb|4C4Q|N
+design_name:pdb|4UQ0|3
+design_name:pdb|5IT9|i
+design_name:pdb|5IT9|i Chain i
+design_name:pdb|6EM5|6
+design_name:pdb|6M62|6
+design_name:pdb|6R6G|AF
+design_name:pdb|6RXT|C2
+design_name:pdb|6WLU|A
+design_name:pdb|6ZJ3|LG
+design_name:pdb|7EGP|
+design_name:pdb|7L48|E
+design_name:raiA 1
+design_name:rpl30
+design_name:unclassified sequences Clostridiales-3 RNA
+design_name:unclassified sequences Clostridiales-3 RNA URS0000D6A770_12908
+design_name:unclassified sequences FuFi-1 RNA
+design_name:unclassified sequences RAGATH-7 RNA
+design_name:unclassified sequences RT-2 RNA
+design_name:unclassified sequences ilvB-OMG RNA URS0000D6D30D_12908 #ilvB #Breaker
